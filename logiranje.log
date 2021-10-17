@@ -1,0 +1,392 @@
+2021-10-08 12:52:00,917 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-10-08 12:52:00,923 - werkzeug - INFO -  * Restarting with stat
+2021-10-08 12:52:02,950 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-10-08 12:52:02,951 - werkzeug - WARNING -  * Debugger is active!
+2021-10-08 12:52:02,961 - werkzeug - INFO -  * Debugger PIN: 790-660-682
+2021-10-08 12:52:03,967 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-10-08 12:52:03,970 - werkzeug - INFO -  * Running on http://193.2.177.187:5000/ (Press CTRL+C to quit)
+2021-10-08 12:52:04,233 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2021-10-08 12:52:04,234 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:52:04] "GET /socket.io/?EIO=4&transport=polling&t=NnVY0h3 HTTP/1.1" 200 -
+2021-10-08 12:52:04,481 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:52:04] "POST /socket.io/?EIO=4&transport=polling&t=NnVY0qD&sid=3WUZTw0Mhdzp4YxFAAAA HTTP/1.1" 200 -
+2021-10-08 12:52:04,546 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:52:04] "GET /socket.io/?EIO=4&transport=polling&t=NnVY0qD.0&sid=3WUZTw0Mhdzp4YxFAAAA HTTP/1.1" 200 -
+2021-10-08 12:52:04,554 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:52:04] "POST /socket.io/?EIO=4&transport=polling&t=NnVY0v5&sid=3WUZTw0Mhdzp4YxFAAAA HTTP/1.1" 200 -
+2021-10-08 12:52:29,248 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:52:29] "GET /socket.io/?EIO=4&transport=polling&t=NnVY0v6&sid=3WUZTw0Mhdzp4YxFAAAA HTTP/1.1" 200 -
+2021-10-08 12:52:29,562 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:52:29] "POST /socket.io/?EIO=4&transport=polling&t=NnVY6x7&sid=3WUZTw0Mhdzp4YxFAAAA HTTP/1.1" 200 -
+2021-10-08 12:52:30,037 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:52:30] "GET / HTTP/1.1" 200 -
+2021-10-08 12:52:30,435 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:52:30] "GET /socket.io/?EIO=4&transport=polling&t=NnVY78e HTTP/1.1" 200 -
+2021-10-08 12:52:30,700 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:52:30] "POST /socket.io/?EIO=4&transport=polling&t=NnVY7Dd&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:52:30,748 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:52:30] "GET /socket.io/?EIO=4&transport=polling&t=NnVY7De&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:52:30,756 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:52:30] "POST /socket.io/?EIO=4&transport=polling&t=NnVY7IW&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:52:40,027 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:52:40] "POST /socket.io/?EIO=4&transport=polling&t=NnVY9UV&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:52:42,747 - Lokacija - WARNING - talk back: Celovška cesta, Ljubljana, Slovenia
+2021-10-08 12:52:48,786 - decision_2021_4_18 - INFO - Podatki so bili uspesno pridobljeni.
+2021-10-08 12:52:48,786 - conversation_intelligence - INFO - Podatki za bus: Trola 06 pride na postajo Hajdrihova v smeri DOLGI MOST P+R - ÈRNUÈE èez 9 ur in 12 minut
+2021-10-08 12:52:48,787 - conversation_intelligence - INFO - Odloèitev: Predolga hoja - bus.
+2021-10-08 12:52:48,787 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:52:48] "GET /socket.io/?EIO=4&transport=polling&t=NnVY6x7.0&sid=3WUZTw0Mhdzp4YxFAAAA HTTP/1.1" 200 -
+2021-10-08 12:52:48,788 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:52:48] "GET /socket.io/?EIO=4&transport=polling&t=NnVY7IW.0&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:52:55,437 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:52:55] "GET /socket.io/?EIO=4&transport=polling&t=NnVYBiP&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:52:55,446 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:52:55] "POST /socket.io/?EIO=4&transport=polling&t=NnVYDKH&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:53:20,462 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:53:20] "GET /socket.io/?EIO=4&transport=polling&t=NnVYDKI&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:53:20,780 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:53:20] "POST /socket.io/?EIO=4&transport=polling&t=NnVYJRI&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:53:45,784 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:53:45] "GET /socket.io/?EIO=4&transport=polling&t=NnVYJRI.0&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:53:45,792 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:53:45] "POST /socket.io/?EIO=4&transport=polling&t=NnVYPcx&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:54:10,804 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:54:10] "GET /socket.io/?EIO=4&transport=polling&t=NnVYPcy&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:54:11,128 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:54:11] "POST /socket.io/?EIO=4&transport=polling&t=NnVYVju&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:54:36,137 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:54:36] "GET /socket.io/?EIO=4&transport=polling&t=NnVYVjv&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:54:36,162 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:54:36] "POST /socket.io/?EIO=4&transport=polling&t=NnVYbvq&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:55:01,173 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:55:01] "GET /socket.io/?EIO=4&transport=polling&t=NnVYbvr&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:55:01,500 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:55:01] "POST /socket.io/?EIO=4&transport=polling&t=NnVYi0y&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:55:26,501 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:55:26] "GET /socket.io/?EIO=4&transport=polling&t=NnVYi0y.0&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:55:26,509 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:55:26] "POST /socket.io/?EIO=4&transport=polling&t=NnVYoCe&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:55:51,523 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:55:51] "GET /socket.io/?EIO=4&transport=polling&t=NnVYoCf&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:55:51,845 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:55:51] "POST /socket.io/?EIO=4&transport=polling&t=NnVYuJd&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:56:16,857 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:56:16] "GET /socket.io/?EIO=4&transport=polling&t=NnVYuJd.0&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:56:16,865 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:56:16] "POST /socket.io/?EIO=4&transport=polling&t=NnVY-VS&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:56:41,867 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:56:41] "GET /socket.io/?EIO=4&transport=polling&t=NnVY-VS.0&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:56:42,187 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:56:42] "POST /socket.io/?EIO=4&transport=polling&t=NnVZ4cE&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:57:07,191 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:57:07] "GET /socket.io/?EIO=4&transport=polling&t=NnVZ4cF&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:57:07,214 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:57:07] "POST /socket.io/?EIO=4&transport=polling&t=NnVZAo3&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:57:33,277 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:57:33] "GET /socket.io/?EIO=4&transport=polling&t=NnVZAo4&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:57:33,599 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:57:33] "POST /socket.io/?EIO=4&transport=polling&t=NnVZH9Y&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:57:58,603 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:57:58] "GET /socket.io/?EIO=4&transport=polling&t=NnVZH9Z&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:57:58,611 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:57:58] "POST /socket.io/?EIO=4&transport=polling&t=NnVZNLE&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:58:23,620 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:58:23] "GET /socket.io/?EIO=4&transport=polling&t=NnVZNLF&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:58:23,939 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:58:23] "POST /socket.io/?EIO=4&transport=polling&t=NnVZTS6&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:58:48,951 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:58:48] "GET /socket.io/?EIO=4&transport=polling&t=NnVZTS7&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:58:48,973 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:58:48] "POST /socket.io/?EIO=4&transport=polling&t=NnVZZe0&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:59:13,988 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:59:13] "GET /socket.io/?EIO=4&transport=polling&t=NnVZZe1&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:59:14,309 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:59:14] "POST /socket.io/?EIO=4&transport=polling&t=NnVZfl7&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:59:39,318 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:59:39] "GET /socket.io/?EIO=4&transport=polling&t=NnVZfl7.0&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 12:59:39,343 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 12:59:39] "POST /socket.io/?EIO=4&transport=polling&t=NnVZlx0&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:00:04,349 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:00:04] "GET /socket.io/?EIO=4&transport=polling&t=NnVZlx1&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:00:04,685 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:00:04] "POST /socket.io/?EIO=4&transport=polling&t=NnVZs26&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:00:29,701 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:00:29] "GET /socket.io/?EIO=4&transport=polling&t=NnVZs27&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:00:29,725 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:00:29] "POST /socket.io/?EIO=4&transport=polling&t=NnVZyEG&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:00:54,731 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:00:54] "GET /socket.io/?EIO=4&transport=polling&t=NnVZyEH&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:00:55,062 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:00:55] "POST /socket.io/?EIO=4&transport=polling&t=NnVa2LN&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:01:20,070 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:01:20] "GET /socket.io/?EIO=4&transport=polling&t=NnVa2LO&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:01:20,093 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:01:20] "POST /socket.io/?EIO=4&transport=polling&t=NnVa8XG&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:01:45,095 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:01:45] "GET /socket.io/?EIO=4&transport=polling&t=NnVa8XH&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:01:45,427 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:01:45] "POST /socket.io/?EIO=4&transport=polling&t=NnVaEeH&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:02:10,430 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:02:10] "GET /socket.io/?EIO=4&transport=polling&t=NnVaEeI&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:02:10,443 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:02:10] "POST /socket.io/?EIO=4&transport=polling&t=NnVaKq7&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:02:35,451 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:02:35] "GET /socket.io/?EIO=4&transport=polling&t=NnVaKq7.0&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:02:35,764 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:02:35] "POST /socket.io/?EIO=4&transport=polling&t=NnVaQw_&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:03:00,777 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:03:00] "GET /socket.io/?EIO=4&transport=polling&t=NnVaQw_.0&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:03:00,786 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:03:00] "POST /socket.io/?EIO=4&transport=polling&t=NnVaX6j&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:03:25,795 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:03:25] "GET /socket.io/?EIO=4&transport=polling&t=NnVaX6j.0&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:03:26,121 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:03:26] "POST /socket.io/?EIO=4&transport=polling&t=NnVadDe&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:03:51,131 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:03:51] "GET /socket.io/?EIO=4&transport=polling&t=NnVadDe.0&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:03:51,155 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:03:51] "POST /socket.io/?EIO=4&transport=polling&t=NnVajPe&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:04:16,167 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:04:16] "GET /socket.io/?EIO=4&transport=polling&t=NnVajPf&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:04:16,488 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:04:16] "POST /socket.io/?EIO=4&transport=polling&t=NnVapWh&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:04:41,490 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:04:41] "GET /socket.io/?EIO=4&transport=polling&t=NnVapWh.0&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:04:41,515 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:04:41] "POST /socket.io/?EIO=4&transport=polling&t=NnVaviT&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:05:06,521 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:05:06] "GET /socket.io/?EIO=4&transport=polling&t=NnVaviU&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:05:06,855 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:05:06] "POST /socket.io/?EIO=4&transport=polling&t=NnVa_pa&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:05:31,866 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:05:31] "GET /socket.io/?EIO=4&transport=polling&t=NnVa_pb&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:05:31,879 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:05:31] "POST /socket.io/?EIO=4&transport=polling&t=NnVb5_V&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:05:56,880 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:05:56] "GET /socket.io/?EIO=4&transport=polling&t=NnVb5_W&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:05:57,209 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:05:57] "POST /socket.io/?EIO=4&transport=polling&t=NnVbC6M&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:06:22,222 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:06:22] "GET /socket.io/?EIO=4&transport=polling&t=NnVbC6N&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:06:22,230 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:06:22] "POST /socket.io/?EIO=4&transport=polling&t=NnVbIIH&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:06:47,235 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:06:47] "GET /socket.io/?EIO=4&transport=polling&t=NnVbIII&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:06:47,554 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:06:47] "POST /socket.io/?EIO=4&transport=polling&t=NnVbOP6&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:07:12,562 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:07:12] "GET /socket.io/?EIO=4&transport=polling&t=NnVbOP7&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:07:12,583 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:07:12] "POST /socket.io/?EIO=4&transport=polling&t=NnVbUax&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:07:37,593 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:07:37] "GET /socket.io/?EIO=4&transport=polling&t=NnVbUay&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:07:37,909 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:07:37] "POST /socket.io/?EIO=4&transport=polling&t=NnVbahy&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:08:02,917 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:08:02] "GET /socket.io/?EIO=4&transport=polling&t=NnVbahz&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:08:02,929 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:08:02] "POST /socket.io/?EIO=4&transport=polling&t=NnVbgth&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:08:27,932 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:08:27] "GET /socket.io/?EIO=4&transport=polling&t=NnVbgti&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:08:28,269 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:08:28] "POST /socket.io/?EIO=4&transport=polling&t=NnVbm-d&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:08:53,283 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:08:53] "GET /socket.io/?EIO=4&transport=polling&t=NnVbm-e&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:08:53,308 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:08:53] "POST /socket.io/?EIO=4&transport=polling&t=NnVbtAj&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:09:18,321 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:09:18] "GET /socket.io/?EIO=4&transport=polling&t=NnVbtAk&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:09:18,651 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:09:18] "POST /socket.io/?EIO=4&transport=polling&t=NnVbzHx&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:09:43,654 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:09:43] "GET /socket.io/?EIO=4&transport=polling&t=NnVbzHz&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:09:43,661 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:09:43] "POST /socket.io/?EIO=4&transport=polling&t=NnVc3Tf&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:10:08,675 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:10:08] "GET /socket.io/?EIO=4&transport=polling&t=NnVc3Tf.0&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:10:08,990 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:10:08] "POST /socket.io/?EIO=4&transport=polling&t=NnVc9ac&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:10:33,992 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:10:33] "GET /socket.io/?EIO=4&transport=polling&t=NnVc9ad&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:10:34,016 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:10:34] "POST /socket.io/?EIO=4&transport=polling&t=NnVcFmJ&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:10:59,023 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:10:59] "GET /socket.io/?EIO=4&transport=polling&t=NnVcFmK&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:10:59,338 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:10:59] "POST /socket.io/?EIO=4&transport=polling&t=NnVcLtJ&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:11:24,342 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:11:24] "GET /socket.io/?EIO=4&transport=polling&t=NnVcLtJ.0&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:11:24,350 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:11:24] "POST /socket.io/?EIO=4&transport=polling&t=NnVcS2w&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:11:49,366 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:11:49] "GET /socket.io/?EIO=4&transport=polling&t=NnVcS2w.0&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:11:49,684 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:11:49] "POST /socket.io/?EIO=4&transport=polling&t=NnVcY9w&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:12:14,699 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:12:14] "GET /socket.io/?EIO=4&transport=polling&t=NnVcY9w.0&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:12:14,707 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:12:14] "POST /socket.io/?EIO=4&transport=polling&t=NnVceLk&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:12:39,716 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:12:39] "GET /socket.io/?EIO=4&transport=polling&t=NnVceLk.0&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:12:40,032 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:12:40] "POST /socket.io/?EIO=4&transport=polling&t=NnVckSe&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:13:05,033 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:13:05] "GET /socket.io/?EIO=4&transport=polling&t=NnVckSe.0&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:13:05,039 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:13:05] "POST /socket.io/?EIO=4&transport=polling&t=NnVcqeC&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:13:30,052 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:13:30] "GET /socket.io/?EIO=4&transport=polling&t=NnVcqeC.0&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:13:30,373 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:13:30] "POST /socket.io/?EIO=4&transport=polling&t=NnVcwl7&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:13:55,383 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:13:55] "GET /socket.io/?EIO=4&transport=polling&t=NnVcwl7.0&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:13:55,396 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:13:55] "POST /socket.io/?EIO=4&transport=polling&t=NnVd0wy&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:14:20,400 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:14:20] "GET /socket.io/?EIO=4&transport=polling&t=NnVd0wz&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:14:20,727 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:14:20] "POST /socket.io/?EIO=4&transport=polling&t=NnVd71v&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:14:45,731 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:14:45] "GET /socket.io/?EIO=4&transport=polling&t=NnVd71w&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:14:45,742 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:14:45] "POST /socket.io/?EIO=4&transport=polling&t=NnVdDDe&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:15:10,750 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:15:10] "GET /socket.io/?EIO=4&transport=polling&t=NnVdDDe.0&sid=xlEz1LWl_no0G1HDAAAC HTTP/1.1" 200 -
+2021-10-08 13:16:25,390 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:16:25] "GET /socket.io/?EIO=4&transport=polling&t=NnVdbTq HTTP/1.1" 200 -
+2021-10-08 13:16:25,657 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:16:25] "POST /socket.io/?EIO=4&transport=polling&t=NnVdbYo&sid=RgHwu3eFzxaFY_a9AAAE HTTP/1.1" 200 -
+2021-10-08 13:16:25,706 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:16:25] "GET /socket.io/?EIO=4&transport=polling&t=NnVdbYo.0&sid=RgHwu3eFzxaFY_a9AAAE HTTP/1.1" 200 -
+2021-10-08 13:16:25,713 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:16:25] "POST /socket.io/?EIO=4&transport=polling&t=NnVdbdj&sid=RgHwu3eFzxaFY_a9AAAE HTTP/1.1" 200 -
+2021-10-08 13:16:50,391 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:16:50] "GET /socket.io/?EIO=4&transport=polling&t=NnVdbdj.0&sid=RgHwu3eFzxaFY_a9AAAE HTTP/1.1" 200 -
+2021-10-08 13:16:50,716 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:16:50] "POST /socket.io/?EIO=4&transport=polling&t=NnVdhfQ&sid=RgHwu3eFzxaFY_a9AAAE HTTP/1.1" 200 -
+2021-10-08 13:17:15,731 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:17:15] "GET /socket.io/?EIO=4&transport=polling&t=NnVdhfQ.0&sid=RgHwu3eFzxaFY_a9AAAE HTTP/1.1" 200 -
+2021-10-08 13:17:15,749 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:17:15] "POST /socket.io/?EIO=4&transport=polling&t=NnVdnrR&sid=RgHwu3eFzxaFY_a9AAAE HTTP/1.1" 200 -
+2021-10-08 13:17:40,754 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:17:40] "GET /socket.io/?EIO=4&transport=polling&t=NnVdnrS&sid=RgHwu3eFzxaFY_a9AAAE HTTP/1.1" 200 -
+2021-10-08 13:17:41,097 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:17:41] "POST /socket.io/?EIO=4&transport=polling&t=NnVdtyV&sid=RgHwu3eFzxaFY_a9AAAE HTTP/1.1" 200 -
+2021-10-08 13:18:04,006 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:18:04] "GET / HTTP/1.1" 200 -
+2021-10-08 13:18:06,097 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:18:06] "GET /socket.io/?EIO=4&transport=polling&t=NnVdtyZ&sid=RgHwu3eFzxaFY_a9AAAE HTTP/1.1" 200 -
+2021-10-08 13:23:19,590 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:23:19] "GET /socket.io/?EIO=4&transport=polling&t=NnVfAbd HTTP/1.1" 200 -
+2021-10-08 13:23:19,844 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:23:19] "POST /socket.io/?EIO=4&transport=polling&t=NnVfAgl&sid=qHNk7YwIrTmJVE1GAAAG HTTP/1.1" 200 -
+2021-10-08 13:23:19,923 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:23:19] "GET /socket.io/?EIO=4&transport=polling&t=NnVfAgm&sid=qHNk7YwIrTmJVE1GAAAG HTTP/1.1" 200 -
+2021-10-08 13:23:19,931 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:23:19] "POST /socket.io/?EIO=4&transport=polling&t=NnVfAls&sid=qHNk7YwIrTmJVE1GAAAG HTTP/1.1" 200 -
+2021-10-08 13:23:44,605 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:23:44] "GET /socket.io/?EIO=4&transport=polling&t=NnVfAls.0&sid=qHNk7YwIrTmJVE1GAAAG HTTP/1.1" 200 -
+2021-10-08 13:23:44,931 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:23:44] "POST /socket.io/?EIO=4&transport=polling&t=NnVfGnh&sid=qHNk7YwIrTmJVE1GAAAG HTTP/1.1" 200 -
+2021-10-08 13:24:04,707 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:24:04] "GET / HTTP/1.1" 200 -
+2021-10-08 13:24:09,933 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:24:09] "GET /socket.io/?EIO=4&transport=polling&t=NnVfGnh.0&sid=qHNk7YwIrTmJVE1GAAAG HTTP/1.1" 200 -
+2021-10-08 13:25:12,284 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:25:12] "GET /socket.io/?EIO=4&transport=polling&t=NnVfc6a HTTP/1.1" 200 -
+2021-10-08 13:25:12,543 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:25:12] "POST /socket.io/?EIO=4&transport=polling&t=NnVfcBV&sid=pfOw9EnhDeBzbwIxAAAI HTTP/1.1" 200 -
+2021-10-08 13:25:12,607 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:25:12] "GET /socket.io/?EIO=4&transport=polling&t=NnVfcBV.0&sid=pfOw9EnhDeBzbwIxAAAI HTTP/1.1" 200 -
+2021-10-08 13:25:12,615 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:25:12] "POST /socket.io/?EIO=4&transport=polling&t=NnVfcGX&sid=pfOw9EnhDeBzbwIxAAAI HTTP/1.1" 200 -
+2021-10-08 13:25:37,294 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:25:37] "GET /socket.io/?EIO=4&transport=polling&t=NnVfcGY&sid=pfOw9EnhDeBzbwIxAAAI HTTP/1.1" 200 -
+2021-10-08 13:26:50,027 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:26:50] "GET /socket.io/?EIO=4&transport=polling&t=NnVfzzW HTTP/1.1" 200 -
+2021-10-08 13:26:50,288 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:26:50] "POST /socket.io/?EIO=4&transport=polling&t=NnVf-2m&sid=6pJH4UsBsSsaO3oDAAAK HTTP/1.1" 200 -
+2021-10-08 13:26:50,349 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:26:50] "GET /socket.io/?EIO=4&transport=polling&t=NnVf-2n&sid=6pJH4UsBsSsaO3oDAAAK HTTP/1.1" 200 -
+2021-10-08 13:26:50,356 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:26:50] "POST /socket.io/?EIO=4&transport=polling&t=NnVf-7l&sid=6pJH4UsBsSsaO3oDAAAK HTTP/1.1" 200 -
+2021-10-08 13:27:15,042 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:27:15] "GET /socket.io/?EIO=4&transport=polling&t=NnVf-7l.0&sid=6pJH4UsBsSsaO3oDAAAK HTTP/1.1" 200 -
+2021-10-08 13:27:44,007 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:27:44] "GET /socket.io/?EIO=4&transport=polling&t=NnVgB9F HTTP/1.1" 200 -
+2021-10-08 13:27:44,273 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:27:44] "POST /socket.io/?EIO=4&transport=polling&t=NnVgBEB&sid=-7LOcCbYViuQ43BvAAAM HTTP/1.1" 200 -
+2021-10-08 13:27:53,168 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-10-08 13:27:53,174 - werkzeug - INFO -  * Restarting with stat
+2021-10-08 13:27:54,895 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-10-08 13:27:54,896 - werkzeug - WARNING -  * Debugger is active!
+2021-10-08 13:27:54,907 - werkzeug - INFO -  * Debugger PIN: 790-660-682
+2021-10-08 13:27:55,904 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-10-08 13:27:55,905 - werkzeug - INFO -  * Running on http://193.2.177.187:5000/ (Press CTRL+C to quit)
+2021-10-08 13:27:56,987 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:27:56] "GET / HTTP/1.1" 200 -
+2021-10-08 13:27:57,048 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2021-10-08 13:27:57,049 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:27:57] "GET /socket.io/?EIO=4&transport=polling&t=NnVgEPq HTTP/1.1" 200 -
+2021-10-08 13:27:57,252 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:27:57] "POST /socket.io/?EIO=4&transport=polling&t=NnVgERg&sid=l9j9JJaveDm_GIpHAAAA HTTP/1.1" 200 -
+2021-10-08 13:27:57,474 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:27:57] "GET /socket.io/?EIO=4&transport=polling&t=NnVgERg.0&sid=l9j9JJaveDm_GIpHAAAA HTTP/1.1" 200 -
+2021-10-08 13:27:57,788 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:27:57] "POST /socket.io/?EIO=4&transport=polling&t=NnVgEWb&sid=l9j9JJaveDm_GIpHAAAA HTTP/1.1" 200 -
+2021-10-08 13:28:01,425 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:28:01] "POST /socket.io/?EIO=4&transport=polling&t=NnVgFUB&sid=l9j9JJaveDm_GIpHAAAA HTTP/1.1" 200 -
+2021-10-08 13:28:04,039 - Lokacija - WARNING - talk back: Se opravièujem, lahko ponovite? Kam želite it?
+2021-10-08 13:28:10,068 - decision_2021_4_18 - INFO - Podatki so bili uspesno pridobljeni.
+2021-10-08 13:28:10,068 - conversation_intelligence - INFO - Podatki za bus: Trola 06 pride na postajo Hajdrihova v smeri DOLGI MOST P+R - ÈRNUÈE èez 8 ur in 36 minut
+2021-10-08 13:28:10,068 - conversation_intelligence - INFO - Odloèitev: Predolga hoja - bus.
+2021-10-08 13:28:10,069 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:28:10] "GET /socket.io/?EIO=4&transport=polling&t=NnVgEWc&sid=l9j9JJaveDm_GIpHAAAA HTTP/1.1" 200 -
+2021-10-08 13:28:22,053 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:28:22] "GET /socket.io/?EIO=4&transport=polling&t=NnVgHbP&sid=l9j9JJaveDm_GIpHAAAA HTTP/1.1" 200 -
+2021-10-08 13:28:22,075 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:28:22] "POST /socket.io/?EIO=4&transport=polling&t=NnVgKWn&sid=l9j9JJaveDm_GIpHAAAA HTTP/1.1" 200 -
+2021-10-08 13:28:47,080 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:28:47] "GET /socket.io/?EIO=4&transport=polling&t=NnVgKWo&sid=l9j9JJaveDm_GIpHAAAA HTTP/1.1" 200 -
+2021-10-08 13:28:47,419 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:28:47] "POST /socket.io/?EIO=4&transport=polling&t=NnVgQdo&sid=l9j9JJaveDm_GIpHAAAA HTTP/1.1" 200 -
+2021-10-08 13:29:12,424 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:29:12] "GET /socket.io/?EIO=4&transport=polling&t=NnVgQdp&sid=l9j9JJaveDm_GIpHAAAA HTTP/1.1" 200 -
+2021-10-08 13:29:12,443 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:29:12] "POST /socket.io/?EIO=4&transport=polling&t=NnVgWpl&sid=l9j9JJaveDm_GIpHAAAA HTTP/1.1" 200 -
+2021-10-08 13:29:37,449 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:29:37] "GET /socket.io/?EIO=4&transport=polling&t=NnVgWpn&sid=l9j9JJaveDm_GIpHAAAA HTTP/1.1" 200 -
+2021-10-08 13:29:37,789 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:29:37] "POST /socket.io/?EIO=4&transport=polling&t=NnVgcwn&sid=l9j9JJaveDm_GIpHAAAA HTTP/1.1" 200 -
+2021-10-08 13:30:02,791 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:30:02] "GET /socket.io/?EIO=4&transport=polling&t=NnVgcwp&sid=l9j9JJaveDm_GIpHAAAA HTTP/1.1" 200 -
+2021-10-08 13:30:02,812 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:30:02] "POST /socket.io/?EIO=4&transport=polling&t=NnVgj6p&sid=l9j9JJaveDm_GIpHAAAA HTTP/1.1" 200 -
+2021-10-08 13:30:27,818 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:30:27] "GET /socket.io/?EIO=4&transport=polling&t=NnVgj6q&sid=l9j9JJaveDm_GIpHAAAA HTTP/1.1" 200 -
+2021-10-08 13:30:28,132 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:30:28] "POST /socket.io/?EIO=4&transport=polling&t=NnVgpDn&sid=l9j9JJaveDm_GIpHAAAA HTTP/1.1" 200 -
+2021-10-08 13:30:30,726 - werkzeug - INFO -  * Detected change in 'c:\\Users\\emama\\OneDrive\\Documents\\Coding\\Seca projekt\\Komunikator2\\app\\server.py', reloading
+2021-10-08 13:30:30,902 - werkzeug - INFO -  * Restarting with stat
+2021-10-08 13:30:33,169 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-10-08 13:30:33,171 - werkzeug - WARNING -  * Debugger is active!
+2021-10-08 13:30:33,183 - werkzeug - INFO -  * Debugger PIN: 790-660-682
+2021-10-08 13:30:34,187 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-10-08 13:30:34,188 - werkzeug - INFO -  * Running on http://193.2.177.187:5000/ (Press CTRL+C to quit)
+2021-10-08 13:30:34,205 - engineio.server - ERROR - Invalid session l9j9JJaveDm_GIpHAAAA (further occurrences of this error will be logged with level INFO)
+2021-10-08 13:30:34,206 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:30:34] "[31m[1mPOST /socket.io/?EIO=4&transport=polling&t=NnVgpzg&sid=l9j9JJaveDm_GIpHAAAA HTTP/1.1[0m" 400 -
+2021-10-08 13:30:34,435 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2021-10-08 13:30:34,437 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:30:34] "GET /socket.io/?EIO=4&transport=polling&t=NnVgqP- HTTP/1.1" 200 -
+2021-10-08 13:30:34,549 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:30:34] "POST /socket.io/?EIO=4&transport=polling&t=NnVgqrj&sid=kC2VotluyK-3uUZ2AAAA HTTP/1.1" 200 -
+2021-10-08 13:30:34,796 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:30:34] "GET /socket.io/?EIO=4&transport=polling&t=NnVgqrk&sid=kC2VotluyK-3uUZ2AAAA HTTP/1.1" 200 -
+2021-10-08 13:30:34,815 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:30:34] "POST /socket.io/?EIO=4&transport=polling&t=NnVgqwm&sid=kC2VotluyK-3uUZ2AAAA HTTP/1.1" 200 -
+2021-10-08 13:30:59,439 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:30:59] "GET /socket.io/?EIO=4&transport=polling&t=NnVgqwm.0&sid=kC2VotluyK-3uUZ2AAAA HTTP/1.1" 200 -
+2021-10-08 13:30:59,449 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:30:59] "POST /socket.io/?EIO=4&transport=polling&t=NnVgwxq&sid=kC2VotluyK-3uUZ2AAAA HTTP/1.1" 200 -
+2021-10-08 13:31:24,453 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:31:24] "GET /socket.io/?EIO=4&transport=polling&t=NnVgwxq.0&sid=kC2VotluyK-3uUZ2AAAA HTTP/1.1" 200 -
+2021-10-08 13:31:24,771 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:31:24] "POST /socket.io/?EIO=4&transport=polling&t=NnVh12e&sid=kC2VotluyK-3uUZ2AAAA HTTP/1.1" 200 -
+2021-10-08 13:31:49,784 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:31:49] "GET /socket.io/?EIO=4&transport=polling&t=NnVh12f&sid=kC2VotluyK-3uUZ2AAAA HTTP/1.1" 200 -
+2021-10-08 13:31:49,795 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:31:49] "POST /socket.io/?EIO=4&transport=polling&t=NnVh7ET&sid=kC2VotluyK-3uUZ2AAAA HTTP/1.1" 200 -
+2021-10-08 13:32:14,798 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:32:14] "GET /socket.io/?EIO=4&transport=polling&t=NnVh7ET.0&sid=kC2VotluyK-3uUZ2AAAA HTTP/1.1" 200 -
+2021-10-08 13:32:15,126 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:32:15] "POST /socket.io/?EIO=4&transport=polling&t=NnVhDLQ&sid=kC2VotluyK-3uUZ2AAAA HTTP/1.1" 200 -
+2021-10-08 13:32:40,136 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:32:40] "GET /socket.io/?EIO=4&transport=polling&t=NnVhDLQ.0&sid=kC2VotluyK-3uUZ2AAAA HTTP/1.1" 200 -
+2021-10-08 13:32:40,153 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:32:40] "POST /socket.io/?EIO=4&transport=polling&t=NnVhJXF&sid=kC2VotluyK-3uUZ2AAAA HTTP/1.1" 200 -
+2021-10-08 13:33:05,156 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:33:05] "GET /socket.io/?EIO=4&transport=polling&t=NnVhJXG&sid=kC2VotluyK-3uUZ2AAAA HTTP/1.1" 200 -
+2021-10-08 13:33:05,494 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:33:05] "POST /socket.io/?EIO=4&transport=polling&t=NnVhPeF&sid=kC2VotluyK-3uUZ2AAAA HTTP/1.1" 200 -
+2021-10-08 13:33:30,509 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:33:30] "GET /socket.io/?EIO=4&transport=polling&t=NnVhPeG&sid=kC2VotluyK-3uUZ2AAAA HTTP/1.1" 200 -
+2021-10-08 13:33:30,517 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:33:30] "POST /socket.io/?EIO=4&transport=polling&t=NnVhVqI&sid=kC2VotluyK-3uUZ2AAAA HTTP/1.1" 200 -
+2021-10-08 13:33:55,522 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:33:55] "GET /socket.io/?EIO=4&transport=polling&t=NnVhVqI.0&sid=kC2VotluyK-3uUZ2AAAA HTTP/1.1" 200 -
+2021-10-08 13:33:55,839 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:33:55] "POST /socket.io/?EIO=4&transport=polling&t=NnVhbx6&sid=kC2VotluyK-3uUZ2AAAA HTTP/1.1" 200 -
+2021-10-08 13:34:20,843 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:34:20] "GET /socket.io/?EIO=4&transport=polling&t=NnVhbx6.0&sid=kC2VotluyK-3uUZ2AAAA HTTP/1.1" 200 -
+2021-10-08 13:34:20,866 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:34:20] "POST /socket.io/?EIO=4&transport=polling&t=NnVhi6r&sid=kC2VotluyK-3uUZ2AAAA HTTP/1.1" 200 -
+2021-10-08 13:34:45,873 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:34:45] "GET /socket.io/?EIO=4&transport=polling&t=NnVhi6t&sid=kC2VotluyK-3uUZ2AAAA HTTP/1.1" 200 -
+2021-10-08 13:34:46,206 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:34:46] "POST /socket.io/?EIO=4&transport=polling&t=NnVhoDz&sid=kC2VotluyK-3uUZ2AAAA HTTP/1.1" 200 -
+2021-10-08 13:35:11,222 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:35:11] "GET /socket.io/?EIO=4&transport=polling&t=NnVhoD-&sid=kC2VotluyK-3uUZ2AAAA HTTP/1.1" 200 -
+2021-10-08 13:35:11,241 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:35:11] "POST /socket.io/?EIO=4&transport=polling&t=NnVhuQ3&sid=kC2VotluyK-3uUZ2AAAA HTTP/1.1" 200 -
+2021-10-08 13:35:36,244 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:35:36] "GET /socket.io/?EIO=4&transport=polling&t=NnVhuQ3.0&sid=kC2VotluyK-3uUZ2AAAA HTTP/1.1" 200 -
+2021-10-08 13:42:20,025 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:42:20] "GET /socket.io/?EIO=4&transport=polling&t=NnVjX0i HTTP/1.1" 200 -
+2021-10-08 13:42:20,287 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:42:20] "POST /socket.io/?EIO=4&transport=polling&t=NnVjX5_&sid=fyPUBmRO5uKjZi5aAAAC HTTP/1.1" 200 -
+2021-10-08 13:42:20,350 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:42:20] "GET /socket.io/?EIO=4&transport=polling&t=NnVjX60&sid=fyPUBmRO5uKjZi5aAAAC HTTP/1.1" 200 -
+2021-10-08 13:42:20,357 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:42:20] "POST /socket.io/?EIO=4&transport=polling&t=NnVjXB0&sid=fyPUBmRO5uKjZi5aAAAC HTTP/1.1" 200 -
+2021-10-08 13:42:45,036 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:42:45] "GET /socket.io/?EIO=4&transport=polling&t=NnVjXB0.0&sid=fyPUBmRO5uKjZi5aAAAC HTTP/1.1" 200 -
+2021-10-08 13:42:45,350 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:42:45] "POST /socket.io/?EIO=4&transport=polling&t=NnVjdCl&sid=fyPUBmRO5uKjZi5aAAAC HTTP/1.1" 200 -
+2021-10-08 13:43:10,364 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:43:10] "GET /socket.io/?EIO=4&transport=polling&t=NnVjdCm&sid=fyPUBmRO5uKjZi5aAAAC HTTP/1.1" 200 -
+2021-10-08 13:43:10,372 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:43:10] "POST /socket.io/?EIO=4&transport=polling&t=NnVjjOV&sid=fyPUBmRO5uKjZi5aAAAC HTTP/1.1" 200 -
+2021-10-08 13:43:35,374 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:43:35] "GET /socket.io/?EIO=4&transport=polling&t=NnVjjOV.0&sid=fyPUBmRO5uKjZi5aAAAC HTTP/1.1" 200 -
+2021-10-08 13:43:35,695 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:43:35] "POST /socket.io/?EIO=4&transport=polling&t=NnVjpVH&sid=fyPUBmRO5uKjZi5aAAAC HTTP/1.1" 200 -
+2021-10-08 13:44:00,704 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:44:00] "GET /socket.io/?EIO=4&transport=polling&t=NnVjpVH.0&sid=fyPUBmRO5uKjZi5aAAAC HTTP/1.1" 200 -
+2021-10-08 13:44:00,716 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:44:00] "POST /socket.io/?EIO=4&transport=polling&t=NnVjvh6&sid=fyPUBmRO5uKjZi5aAAAC HTTP/1.1" 200 -
+2021-10-08 13:44:25,722 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:44:25] "GET /socket.io/?EIO=4&transport=polling&t=NnVjvh6.0&sid=fyPUBmRO5uKjZi5aAAAC HTTP/1.1" 200 -
+2021-10-08 13:44:26,039 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:44:26] "POST /socket.io/?EIO=4&transport=polling&t=NnVj_n-&sid=fyPUBmRO5uKjZi5aAAAC HTTP/1.1" 200 -
+2021-10-08 13:44:51,051 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:44:51] "GET /socket.io/?EIO=4&transport=polling&t=NnVj_n_&sid=fyPUBmRO5uKjZi5aAAAC HTTP/1.1" 200 -
+2021-10-08 13:44:51,074 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:44:51] "POST /socket.io/?EIO=4&transport=polling&t=NnVk5zr&sid=fyPUBmRO5uKjZi5aAAAC HTTP/1.1" 200 -
+2021-10-08 13:54:24,324 - werkzeug - INFO - 170.130.187.26 - - [08/Oct/2021 13:54:24] "GET / HTTP/1.0" 200 -
+2021-10-08 13:59:33,008 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:59:33] "GET /socket.io/?EIO=4&transport=polling&t=NnVnTDK HTTP/1.1" 200 -
+2021-10-08 13:59:33,274 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:59:33] "POST /socket.io/?EIO=4&transport=polling&t=NnVnTII&sid=wPcWnw_EyILI7WK2AAAE HTTP/1.1" 200 -
+2021-10-08 13:59:33,334 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:59:33] "GET /socket.io/?EIO=4&transport=polling&t=NnVnTIJ&sid=wPcWnw_EyILI7WK2AAAE HTTP/1.1" 200 -
+2021-10-08 13:59:33,343 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:59:33] "POST /socket.io/?EIO=4&transport=polling&t=NnVnTNQ&sid=wPcWnw_EyILI7WK2AAAE HTTP/1.1" 200 -
+2021-10-08 13:59:58,022 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:59:58] "GET /socket.io/?EIO=4&transport=polling&t=NnVnTNR&sid=wPcWnw_EyILI7WK2AAAE HTTP/1.1" 200 -
+2021-10-08 13:59:58,333 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 13:59:58] "POST /socket.io/?EIO=4&transport=polling&t=NnVnZP9&sid=wPcWnw_EyILI7WK2AAAE HTTP/1.1" 200 -
+2021-10-08 14:00:23,349 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:00:23] "GET /socket.io/?EIO=4&transport=polling&t=NnVnZPA&sid=wPcWnw_EyILI7WK2AAAE HTTP/1.1" 200 -
+2021-10-08 14:00:23,356 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:00:23] "POST /socket.io/?EIO=4&transport=polling&t=NnVnfau&sid=wPcWnw_EyILI7WK2AAAE HTTP/1.1" 200 -
+2021-10-08 14:00:48,362 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:00:48] "GET /socket.io/?EIO=4&transport=polling&t=NnVnfau.0&sid=wPcWnw_EyILI7WK2AAAE HTTP/1.1" 200 -
+2021-10-08 14:00:48,699 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:00:48] "POST /socket.io/?EIO=4&transport=polling&t=NnVnlhr&sid=wPcWnw_EyILI7WK2AAAE HTTP/1.1" 200 -
+2021-10-08 14:00:56,328 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:00:56] "GET / HTTP/1.1" 200 -
+2021-10-08 14:01:13,700 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:01:13] "GET /socket.io/?EIO=4&transport=polling&t=NnVnlhs&sid=wPcWnw_EyILI7WK2AAAE HTTP/1.1" 200 -
+2021-10-08 14:01:53,132 - werkzeug - INFO -  * Detected change in 'c:\\Users\\emama\\OneDrive\\Documents\\Coding\\Seca projekt\\Komunikator2\\app\\Lokacija.py', reloading
+2021-10-08 14:01:53,258 - werkzeug - INFO -  * Restarting with stat
+2021-10-08 14:01:55,270 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-10-08 14:01:55,271 - werkzeug - WARNING -  * Debugger is active!
+2021-10-08 14:01:55,281 - werkzeug - INFO -  * Debugger PIN: 790-660-682
+2021-10-08 14:01:56,279 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-10-08 14:01:56,280 - werkzeug - INFO -  * Running on http://193.2.177.187:5000/ (Press CTRL+C to quit)
+2021-10-08 14:02:08,016 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2021-10-08 14:02:08,019 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:02:08] "GET /socket.io/?EIO=4&transport=polling&t=NnVo33K HTTP/1.1" 200 -
+2021-10-08 14:02:08,277 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:02:08] "GET /socket.io/?EIO=4&transport=polling&t=NnVo33K HTTP/1.1" 200 -
+2021-10-08 14:02:08,324 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:02:08] "POST /socket.io/?EIO=4&transport=polling&t=NnVo38M&sid=C2nGtC1qSV1EnaopAAAA HTTP/1.1" 200 -
+2021-10-08 14:02:08,328 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:02:08] "GET /socket.io/?EIO=4&transport=polling&t=NnVo38N&sid=C2nGtC1qSV1EnaopAAAA HTTP/1.1" 200 -
+2021-10-08 14:02:08,329 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:02:08] "POST /socket.io/?EIO=4&transport=polling&t=NnVo3CN&sid=FUI-acSbH-e42zSHAAAB HTTP/1.1" 200 -
+2021-10-08 14:02:08,593 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:02:08] "GET /socket.io/?EIO=4&transport=polling&t=NnVo3CO&sid=FUI-acSbH-e42zSHAAAB HTTP/1.1" 200 -
+2021-10-08 14:02:08,596 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:02:08] "POST /socket.io/?EIO=4&transport=polling&t=NnVo3DC&sid=C2nGtC1qSV1EnaopAAAA HTTP/1.1" 200 -
+2021-10-08 14:02:08,642 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:02:08] "POST /socket.io/?EIO=4&transport=polling&t=NnVo3HL&sid=FUI-acSbH-e42zSHAAAB HTTP/1.1" 200 -
+2021-10-08 14:02:33,025 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:02:33] "GET /socket.io/?EIO=4&transport=polling&t=NnVo3DC.0&sid=C2nGtC1qSV1EnaopAAAA HTTP/1.1" 200 -
+2021-10-08 14:02:33,034 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:02:33] "POST /socket.io/?EIO=4&transport=polling&t=NnVo9F5&sid=C2nGtC1qSV1EnaopAAAA HTTP/1.1" 200 -
+2021-10-08 14:02:33,290 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:02:33] "GET /socket.io/?EIO=4&transport=polling&t=NnVo3HM&sid=FUI-acSbH-e42zSHAAAB HTTP/1.1" 200 -
+2021-10-08 14:02:33,605 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:02:33] "POST /socket.io/?EIO=4&transport=polling&t=NnVo9JC&sid=FUI-acSbH-e42zSHAAAB HTTP/1.1" 200 -
+2021-10-08 14:02:58,043 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:02:58] "GET /socket.io/?EIO=4&transport=polling&t=NnVo9F5.0&sid=C2nGtC1qSV1EnaopAAAA HTTP/1.1" 200 -
+2021-10-08 14:02:58,608 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:02:58] "GET /socket.io/?EIO=4&transport=polling&t=NnVo9JD&sid=FUI-acSbH-e42zSHAAAB HTTP/1.1" 200 -
+2021-10-08 14:04:03,009 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:04:03] "GET /socket.io/?EIO=4&transport=polling&t=NnVoV87 HTTP/1.1" 200 -
+2021-10-08 14:04:03,277 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:04:03] "POST /socket.io/?EIO=4&transport=polling&t=NnVoVD4&sid=qnVxe8j7yLPRWz4WAAAE HTTP/1.1" 200 -
+2021-10-08 14:04:03,323 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:04:03] "GET /socket.io/?EIO=4&transport=polling&t=NnVoVD5&sid=qnVxe8j7yLPRWz4WAAAE HTTP/1.1" 200 -
+2021-10-08 14:04:03,330 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:04:03] "POST /socket.io/?EIO=4&transport=polling&t=NnVoVHz&sid=qnVxe8j7yLPRWz4WAAAE HTTP/1.1" 200 -
+2021-10-08 14:04:04,008 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:04:04] "GET /socket.io/?EIO=4&transport=polling&t=NnVoVNl HTTP/1.1" 200 -
+2021-10-08 14:04:04,321 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:04:04] "POST /socket.io/?EIO=4&transport=polling&t=NnVoVSi&sid=eQHlguQ_kf6AhAWKAAAG HTTP/1.1" 200 -
+2021-10-08 14:04:04,321 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:04:04] "GET /socket.io/?EIO=4&transport=polling&t=NnVoVNl HTTP/1.1" 200 -
+2021-10-08 14:04:04,322 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:04:04] "GET /socket.io/?EIO=4&transport=polling&t=NnVoVSi.0&sid=eQHlguQ_kf6AhAWKAAAG HTTP/1.1" 200 -
+2021-10-08 14:04:04,635 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:04:04] "POST /socket.io/?EIO=4&transport=polling&t=NnVoVXb&sid=kqFuI0s_92sZfqD7AAAH HTTP/1.1" 200 -
+2021-10-08 14:04:04,637 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:04:04] "GET /socket.io/?EIO=4&transport=polling&t=NnVoVXc&sid=kqFuI0s_92sZfqD7AAAH HTTP/1.1" 200 -
+2021-10-08 14:04:04,639 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:04:04] "POST /socket.io/?EIO=4&transport=polling&t=NnVoVXd&sid=eQHlguQ_kf6AhAWKAAAG HTTP/1.1" 200 -
+2021-10-08 14:04:04,963 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:04:04] "POST /socket.io/?EIO=4&transport=polling&t=NnVoVca&sid=kqFuI0s_92sZfqD7AAAH HTTP/1.1" 200 -
+2021-10-08 14:04:28,021 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:04:28] "GET /socket.io/?EIO=4&transport=polling&t=NnVoVH-&sid=qnVxe8j7yLPRWz4WAAAE HTTP/1.1" 200 -
+2021-10-08 14:04:28,337 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:04:28] "POST /socket.io/?EIO=4&transport=polling&t=NnVobJv&sid=qnVxe8j7yLPRWz4WAAAE HTTP/1.1" 200 -
+2021-10-08 14:04:29,013 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:04:29] "GET /socket.io/?EIO=4&transport=polling&t=NnVoVXd.0&sid=eQHlguQ_kf6AhAWKAAAG HTTP/1.1" 200 -
+2021-10-08 14:04:29,328 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:04:29] "GET /socket.io/?EIO=4&transport=polling&t=NnVoVca.0&sid=kqFuI0s_92sZfqD7AAAH HTTP/1.1" 200 -
+2021-10-08 14:04:29,331 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:04:29] "POST /socket.io/?EIO=4&transport=polling&t=NnVobZP&sid=eQHlguQ_kf6AhAWKAAAG HTTP/1.1" 200 -
+2021-10-08 14:04:29,644 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:04:29] "POST /socket.io/?EIO=4&transport=polling&t=NnVobeJ&sid=kqFuI0s_92sZfqD7AAAH HTTP/1.1" 200 -
+2021-10-08 14:04:53,346 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:04:53] "GET /socket.io/?EIO=4&transport=polling&t=NnVobJv.0&sid=qnVxe8j7yLPRWz4WAAAE HTTP/1.1" 200 -
+2021-10-08 14:04:53,661 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:04:53] "POST /socket.io/?EIO=4&transport=polling&t=NnVohVc&sid=qnVxe8j7yLPRWz4WAAAE HTTP/1.1" 200 -
+2021-10-08 14:04:54,332 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:04:54] "GET /socket.io/?EIO=4&transport=polling&t=NnVobZP.0&sid=eQHlguQ_kf6AhAWKAAAG HTTP/1.1" 200 -
+2021-10-08 14:04:54,651 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:04:54] "GET /socket.io/?EIO=4&transport=polling&t=NnVobeK&sid=kqFuI0s_92sZfqD7AAAH HTTP/1.1" 200 -
+2021-10-08 14:04:54,655 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:04:54] "POST /socket.io/?EIO=4&transport=polling&t=NnVohl0&sid=eQHlguQ_kf6AhAWKAAAG HTTP/1.1" 200 -
+2021-10-08 14:04:54,971 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:04:54] "POST /socket.io/?EIO=4&transport=polling&t=NnVohq0&sid=kqFuI0s_92sZfqD7AAAH HTTP/1.1" 200 -
+2021-10-08 14:05:06,103 - werkzeug - INFO -  * Detected change in 'c:\\Users\\emama\\OneDrive\\Documents\\Coding\\Seca projekt\\Komunikator2\\app\\komunikator_odg.py', reloading
+2021-10-08 14:05:06,359 - werkzeug - INFO -  * Restarting with stat
+2021-10-08 14:05:10,747 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-10-08 14:05:10,749 - werkzeug - WARNING -  * Debugger is active!
+2021-10-08 14:05:10,771 - werkzeug - INFO -  * Debugger PIN: 790-660-682
+2021-10-08 14:05:11,934 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-10-08 14:05:11,935 - werkzeug - INFO -  * Running on http://193.2.177.187:5000/ (Press CTRL+C to quit)
+2021-10-08 14:05:12,108 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2021-10-08 14:05:12,110 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:05:12] "GET /socket.io/?EIO=4&transport=polling&t=NnVol01 HTTP/1.1" 200 -
+2021-10-08 14:05:12,162 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:05:12] "GET /socket.io/?EIO=4&transport=polling&t=NnVol1a HTTP/1.1" 200 -
+2021-10-08 14:05:12,437 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:05:12] "POST /socket.io/?EIO=4&transport=polling&t=NnVom4_&sid=XhJmnQ9skku2digVAAAA HTTP/1.1" 200 -
+2021-10-08 14:05:12,438 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:05:12] "GET /socket.io/?EIO=4&transport=polling&t=NnVom50&sid=XhJmnQ9skku2digVAAAA HTTP/1.1" 200 -
+2021-10-08 14:05:12,484 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:05:12] "POST /socket.io/?EIO=4&transport=polling&t=NnVom5b&sid=JAzmhA9tETzp3vGKAAAB HTTP/1.1" 200 -
+2021-10-08 14:05:12,485 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:05:12] "GET /socket.io/?EIO=4&transport=polling&t=NnVom5c&sid=JAzmhA9tETzp3vGKAAAB HTTP/1.1" 200 -
+2021-10-08 14:05:12,750 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:05:12] "POST /socket.io/?EIO=4&transport=polling&t=NnVom9w&sid=XhJmnQ9skku2digVAAAA HTTP/1.1" 200 -
+2021-10-08 14:05:12,796 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:05:12] "POST /socket.io/?EIO=4&transport=polling&t=NnVomAf&sid=JAzmhA9tETzp3vGKAAAB HTTP/1.1" 200 -
+2021-10-08 14:05:13,013 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:05:13] "GET /socket.io/?EIO=4&transport=polling&t=NnVomDx HTTP/1.1" 200 -
+2021-10-08 14:05:13,326 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:05:13] "POST /socket.io/?EIO=4&transport=polling&t=NnVomIu&sid=pZPP4cQJYiPsTf_JAAAE HTTP/1.1" 200 -
+2021-10-08 14:05:13,328 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:05:13] "GET /socket.io/?EIO=4&transport=polling&t=NnVomIv&sid=pZPP4cQJYiPsTf_JAAAE HTTP/1.1" 200 -
+2021-10-08 14:05:13,642 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:05:13] "POST /socket.io/?EIO=4&transport=polling&t=NnVomNq&sid=pZPP4cQJYiPsTf_JAAAE HTTP/1.1" 200 -
+2021-10-08 14:05:17,566 - werkzeug - INFO -  * Detected change in 'c:\\Users\\emama\\OneDrive\\Documents\\Coding\\Seca projekt\\Komunikator2\\app\\komunikator_odg.py', reloading
+2021-10-08 14:05:17,793 - werkzeug - INFO -  * Restarting with stat
+2021-10-08 14:05:21,931 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-10-08 14:05:21,935 - werkzeug - WARNING -  * Debugger is active!
+2021-10-08 14:05:21,957 - werkzeug - INFO -  * Debugger PIN: 790-660-682
+2021-10-08 14:05:23,112 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-10-08 14:05:23,113 - werkzeug - INFO -  * Running on http://193.2.177.187:5000/ (Press CTRL+C to quit)
+2021-10-08 14:05:24,017 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2021-10-08 14:05:24,019 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:05:24] "GET /socket.io/?EIO=4&transport=polling&t=NnVoovp HTTP/1.1" 200 -
+2021-10-08 14:05:24,267 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:05:24] "POST /socket.io/?EIO=4&transport=polling&t=NnVoo-s&sid=jw4C8cugGLAmNFOcAAAA HTTP/1.1" 200 -
+2021-10-08 14:05:24,330 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:05:24] "GET /socket.io/?EIO=4&transport=polling&t=NnVoo-t&sid=jw4C8cugGLAmNFOcAAAA HTTP/1.1" 200 -
+2021-10-08 14:05:24,344 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:05:24] "POST /socket.io/?EIO=4&transport=polling&t=NnVop3n&sid=jw4C8cugGLAmNFOcAAAA HTTP/1.1" 200 -
+2021-10-08 14:05:24,928 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:05:24] "GET /socket.io/?EIO=4&transport=polling&t=NnVop9K HTTP/1.1" 200 -
+2021-10-08 14:05:25,007 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:05:25] "POST /socket.io/?EIO=4&transport=polling&t=NnVopD4&sid=L3hPYYuM2gmgT7duAAAC HTTP/1.1" 200 -
+2021-10-08 14:05:25,250 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:05:25] "GET /socket.io/?EIO=4&transport=polling&t=NnVopD5&sid=L3hPYYuM2gmgT7duAAAC HTTP/1.1" 200 -
+2021-10-08 14:05:25,260 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:05:25] "POST /socket.io/?EIO=4&transport=polling&t=NnVopI6&sid=L3hPYYuM2gmgT7duAAAC HTTP/1.1" 200 -
+2021-10-08 14:05:27,018 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:05:27] "GET /socket.io/?EIO=4&transport=polling&t=NnVopef HTTP/1.1" 200 -
+2021-10-08 14:05:27,332 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:05:27] "POST /socket.io/?EIO=4&transport=polling&t=NnVopjj&sid=cC3bkNdOdrAcPphUAAAE HTTP/1.1" 200 -
+2021-10-08 14:05:27,333 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:05:27] "GET /socket.io/?EIO=4&transport=polling&t=NnVopjj.0&sid=cC3bkNdOdrAcPphUAAAE HTTP/1.1" 200 -
+2021-10-08 14:05:27,646 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:05:27] "POST /socket.io/?EIO=4&transport=polling&t=NnVopod&sid=cC3bkNdOdrAcPphUAAAE HTTP/1.1" 200 -
+2021-10-08 14:05:49,027 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:05:49] "GET /socket.io/?EIO=4&transport=polling&t=NnVop3o&sid=jw4C8cugGLAmNFOcAAAA HTTP/1.1" 200 -
+2021-10-08 14:05:49,340 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:05:49] "POST /socket.io/?EIO=4&transport=polling&t=NnVov5c&sid=jw4C8cugGLAmNFOcAAAA HTTP/1.1" 200 -
+2021-10-08 14:05:49,930 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:05:49] "GET /socket.io/?EIO=4&transport=polling&t=NnVopI7&sid=L3hPYYuM2gmgT7duAAAC HTTP/1.1" 200 -
+2021-10-08 14:05:50,246 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:05:50] "POST /socket.io/?EIO=4&transport=polling&t=NnVovJk&sid=L3hPYYuM2gmgT7duAAAC HTTP/1.1" 200 -
+2021-10-08 14:05:52,019 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:05:52] "GET /socket.io/?EIO=4&transport=polling&t=NnVopoe&sid=cC3bkNdOdrAcPphUAAAE HTTP/1.1" 200 -
+2021-10-08 14:05:52,337 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:05:52] "POST /socket.io/?EIO=4&transport=polling&t=NnVovqN&sid=cC3bkNdOdrAcPphUAAAE HTTP/1.1" 200 -
+2021-10-08 14:06:14,346 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:06:14] "GET /socket.io/?EIO=4&transport=polling&t=NnVov5c.0&sid=jw4C8cugGLAmNFOcAAAA HTTP/1.1" 200 -
+2021-10-08 14:06:14,666 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:06:14] "POST /socket.io/?EIO=4&transport=polling&t=NnVo_HF&sid=jw4C8cugGLAmNFOcAAAA HTTP/1.1" 200 -
+2021-10-08 14:06:15,261 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:06:15] "GET /socket.io/?EIO=4&transport=polling&t=NnVovJl&sid=L3hPYYuM2gmgT7duAAAC HTTP/1.1" 200 -
+2021-10-08 14:06:15,575 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:06:15] "POST /socket.io/?EIO=4&transport=polling&t=NnVo_VW&sid=L3hPYYuM2gmgT7duAAAC HTTP/1.1" 200 -
+2021-10-08 14:06:17,340 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:06:17] "GET /socket.io/?EIO=4&transport=polling&t=NnVovqN.0&sid=cC3bkNdOdrAcPphUAAAE HTTP/1.1" 200 -
+2021-10-08 14:06:17,656 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:06:17] "POST /socket.io/?EIO=4&transport=polling&t=NnVp000&sid=cC3bkNdOdrAcPphUAAAE HTTP/1.1" 200 -
+2021-10-08 14:06:39,667 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:06:39] "GET /socket.io/?EIO=4&transport=polling&t=NnVo_HF.0&sid=jw4C8cugGLAmNFOcAAAA HTTP/1.1" 200 -
+2021-10-08 14:06:40,577 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:06:40] "GET /socket.io/?EIO=4&transport=polling&t=NnVo_VX&sid=L3hPYYuM2gmgT7duAAAC HTTP/1.1" 200 -
+2021-10-08 14:06:42,657 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:06:42] "GET /socket.io/?EIO=4&transport=polling&t=NnVp000.0&sid=cC3bkNdOdrAcPphUAAAE HTTP/1.1" 200 -
+2021-10-08 14:54:42,032 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:54:42] "GET /socket.io/?EIO=4&transport=polling&t=NnV-54c HTTP/1.1" 200 -
+2021-10-08 14:54:42,033 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:54:42] "GET /socket.io/?EIO=4&transport=polling&t=NnV-54d HTTP/1.1" 200 -
+2021-10-08 14:54:42,279 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:54:42] "POST /socket.io/?EIO=4&transport=polling&t=NnV-59q&sid=TOZQwFDcsYad7s9qAAAG HTTP/1.1" 200 -
+2021-10-08 14:54:42,356 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:54:42] "GET /socket.io/?EIO=4&transport=polling&t=NnV-59q.0&sid=TOZQwFDcsYad7s9qAAAG HTTP/1.1" 200 -
+2021-10-08 14:54:42,357 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:54:42] "POST /socket.io/?EIO=4&transport=polling&t=NnV-59q&sid=0X8USgbRw7szajI_AAAH HTTP/1.1" 200 -
+2021-10-08 14:54:42,357 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:54:42] "GET /socket.io/?EIO=4&transport=polling&t=NnV-59r&sid=0X8USgbRw7szajI_AAAH HTTP/1.1" 200 -
+2021-10-08 14:54:42,456 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:54:42] "POST /socket.io/?EIO=4&transport=polling&t=NnV-5G6&sid=TOZQwFDcsYad7s9qAAAG HTTP/1.1" 200 -
+2021-10-08 14:54:42,767 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:54:42] "POST /socket.io/?EIO=4&transport=polling&t=NnV-5G7&sid=0X8USgbRw7szajI_AAAH HTTP/1.1" 200 -
+2021-10-08 14:54:44,010 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:54:44] "GET / HTTP/1.1" 200 -
+2021-10-08 14:54:44,438 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:54:44] "GET /socket.io/?EIO=4&transport=polling&t=NnV-5gM HTTP/1.1" 200 -
+2021-10-08 14:54:44,756 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:54:44] "POST /socket.io/?EIO=4&transport=polling&t=NnV-5lQ&sid=Tc9S8lUTB9HdX_-ZAAAK HTTP/1.1" 200 -
+2021-10-08 14:54:44,758 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:54:44] "GET /socket.io/?EIO=4&transport=polling&t=NnV-5lR&sid=Tc9S8lUTB9HdX_-ZAAAK HTTP/1.1" 200 -
+2021-10-08 14:54:45,097 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:54:45] "POST /socket.io/?EIO=4&transport=polling&t=NnV-5qc&sid=Tc9S8lUTB9HdX_-ZAAAK HTTP/1.1" 200 -
+2021-10-08 14:54:46,798 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:54:46] "GET / HTTP/1.1" 200 -
+2021-10-08 14:54:47,173 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:54:47] "GET /socket.io/?EIO=4&transport=polling&t=NnV-6L1 HTTP/1.1" 200 -
+2021-10-08 14:54:47,498 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:54:47] "POST /socket.io/?EIO=4&transport=polling&t=NnV-6QD&sid=K2I3854yQWTA5C0HAAAM HTTP/1.1" 200 -
+2021-10-08 14:54:47,500 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:54:47] "GET /socket.io/?EIO=4&transport=polling&t=NnV-6QE&sid=K2I3854yQWTA5C0HAAAM HTTP/1.1" 200 -
+2021-10-08 14:54:47,826 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:54:47] "POST /socket.io/?EIO=4&transport=polling&t=NnV-6VJ&sid=K2I3854yQWTA5C0HAAAM HTTP/1.1" 200 -
+2021-10-08 14:54:58,152 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:54:58] "GET / HTTP/1.1" 200 -
+2021-10-08 14:54:58,530 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:54:58] "GET /socket.io/?EIO=4&transport=polling&t=NnV-96Z HTTP/1.1" 200 -
+2021-10-08 14:54:58,860 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:54:58] "POST /socket.io/?EIO=4&transport=polling&t=NnV-9Bg&sid=bmRkMRdhL6kC2LElAAAO HTTP/1.1" 200 -
+2021-10-08 14:54:58,862 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:54:58] "GET /socket.io/?EIO=4&transport=polling&t=NnV-9Bh&sid=bmRkMRdhL6kC2LElAAAO HTTP/1.1" 200 -
+2021-10-08 14:54:59,185 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2021 14:54:59] "POST /socket.io/?EIO=4&transport=polling&t=NnV-9Gr&sid=bmRkMRdhL6kC2LElAAAO HTTP/1.1" 200 -
