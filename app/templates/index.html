@@ -1,0 +1,158 @@
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <title>Simple text and voice chat</title>
+	<style>
+		body{
+		   background-color :rgba(100,100,100,0.1);
+		}
+		div{
+		  width : 100%;
+		  height : auto;
+		  float : left;
+		}
+		.message_holder {
+		  margin-bottom : 5px;
+		}
+		.chat_container {
+		  max-width : 300px;
+		  height : 500px;
+		  background-color : white;
+		  overflow: auto;
+		  padding : 5px 5px 0px 5px;
+		}
+		.chat {
+		  padding : 10px;
+		  border: 2px solid #ccc;
+		}
+		.user1{
+		  float : left;
+		  border-radius : 0px 10px 10px 10px;
+		}
+		.user2{
+		  float : right;
+		  border-radius : 10px 0px 10px 10px;
+		}
+    
+  .speech {border: 1px solid #DDD; width: 300px; padding: 0; margin: 0}
+  .speech input {border: 0; width: 240px; display: inline-block; height: 30px;}
+  .speech img {float: right; width: 40px }
+
+	</style>
+  </head>
+  <body>
+
+    <h3 style='color: #ccc;font-size: 30px;'>Basic chat.</h3>
+
+  <form action="" method="POST">
+    <button data-rel="https://cdn.shopify.com/s/files/1/1061/1924/products/Sad_Face_Emoji_grande.png?v=1571606037">SAD!</button>
+		<button data-rel="https://cdn.shopify.com/s/files/1/1061/1924/products/Happy_Emoji_Icon_5c9b7b25-b215-4457-922d-fef519a08b06_grande.png?v=1571606090">HAPPY</button>
+
+		<div id="area"></div>
+  
+
+	  <div>
+	    <div>
+        <input type="text" class="username" placeholder="User Name"/>
+	    </div>
+	    <div class="chat_container">
+	        <div class="message_holder"></div>
+      </div>
+      <div class="speech">
+        <input type="text" class="message" name="q" id="transcript" placeholder="Speak" />
+        <img onclick="startDictation()" src="//i.imgur.com/cHidSVu.gif" />
+        <input type="submit"/>
+      </div>
+     
+    </div>
+  </form>
+	
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/3.1.1/socket.io.min.js"></script>
+    <script type="text/javascript">
+
+      var socket = io.connect('http://' + document.domain + ':' + location.port);
+
+      socket.on( 'connect', function() {
+        socket.emit( 'my event', {
+          data: 'User Connected'
+        } )
+
+      var form = $( 'form' ).on( 'submit', function( e ) {
+          e.preventDefault()
+          let user_name = $( 'input.username' ).val()
+          let user_input = $( 'input.message' ).val()
+          socket.emit( 'my event', {
+            user_name : user_name,
+            message : user_input
+          } )
+          $( 'input.message' ).val( '' ).focus()
+        } )
+      } )
+
+      socket.on( 'my response', function( msg ) {
+        console.log( msg )
+        
+        if( typeof msg.user_name !== 'undefined' ) {
+      
+          $( 'div.message_holder' ).append( '<div><b style="color: #000">'+msg.user_name+'</b> '+msg.message+'</div>' )
+		  var msgspeak = new SpeechSynthesisUtterance();
+		  msgspeak.text = msg.message;
+		  msgspeak.lang = 'en';
+		  window.speechSynthesis.speak(msgspeak);
+        }
+      })
+    </script>
+
+    <!-- HTML5 Speech Recognition API -->
+<script>
+  function startDictation() {
+
+    if (window.hasOwnProperty('webkitSpeechRecognition')) {
+
+      var recognition = new webkitSpeechRecognition();
+
+      recognition.continuous = false;
+      recognition.interimResults = false;
+
+      recognition.lang = "en-US";
+      recognition.start();
+
+      recognition.onresult = function(e) {
+        document.getElementById('transcript').value
+                                 = e.results[0][0].transcript;
+        recognition.stop();
+        document.getElementById('labnol').submit();
+      };
+
+      recognition.onerror = function(e) {
+        recognition.stop();
+      }
+
+    }
+  }
+</script>
+
+<script>
+	$(document).ready(function(){
+    $("button").click(function(){
+        var imgUrl = $(this).data('rel');
+        $("#area").html("<img src='" + imgUrl + "' alt='description' />");
+    });
+});
+</script>
+<script type="text/javascript">
+  document.getElementById('btn').onclick = function() {
+      var val = document.getElementById('imagename').value,
+          src = 'http://webpage.com/images/' + val +'.png',
+          img = document.createElement('img');
+
+      img.src = src;
+      document.body.appendChild(img);
+  }
+</script>
+
+  </body>
+  </html>
