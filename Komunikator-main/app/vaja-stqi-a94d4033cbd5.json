@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vaja-stqi",
+  "private_key_id": "a94d4033cbd5e451fba2b6d29352a1da85457ae1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4sBGoO6XjlQEU\n/AVi1Uj2VTfbelfyHUxBNHrUWHZhTKbMA8LfQzWvUqRQDMbqiceVJ3YxGflg95LJ\nKXgBpU1Q5FXsJ6LNuDXGpE1EMuidqThhbu8KhMJ8MOGqiELhSXWueBrNr9KxcsG5\n6wQINI8n2jFYBK0X0DNpWy9t25WXpWr0Yr4kL0NiSzg7W52ExgyGUGCV4FKIgrhI\nAOYt6TPkOZa8rC/u9Wh6c6YKyGIYdsj5F2A50RMLIpk+GLfv+5hxlk13bPfJSQLx\n/HpyP+M2EF1wPKf1VhcxA4syHNlbbEOm+f/KiknUnZR2UuBpZPdn9nfYMjKC7ukg\n13npLx5fAgMBAAECggEAEeP4aegRS0j5WFuLeAX6MeaSaR/iWhFNfDmFtoE1Qnqm\n47dvjqoXjrq+MQTz1e9v1nqCoAIInsSMwxDRz7MAGNhtnFlAk5YHG4158KPP1cn5\nLLMO0+GFZ3tiuN7HP8SackKvMgKYsdjQfF6QPu08ettPkVuumtJv0IJlR0qQpKZW\nYbOljzu+BADQEVhOPeGUvqjBiUyjsbOsfiYiVhlHkexYMpzszVZQdB4kDj0SaX68\nbxodgBhFyOww87kA0H/Y/dc6beELfqpHzXv8Y7YwZwFoYEyeXXwTxL2k3G7/8xvL\nc9b/kN1Ay0zUkZFBrjzIUsbIzDSYEUrz1A5K06yjsQKBgQD9+HEHzYnjm65DP8W0\n9pR26cZCpv+qr20+UCoI7hBJiSSR6b+a31C72W9O+uaJkfWoPMHBslBU2I0WKy5q\n/W1mCvI2dA+s0TC5DvgJwcQjX2cYmCxn1UlAtWUPvqiw8r299qrA22bm0zbMtpJq\nfEDoHXjONfQo71PtySaf+5FEUQKBgQC6KeSOUj0LbWHHJcpOfPt2wOmES2pIjCZs\nzy/mvIaljdV7lMyg5+tAKKoq5DSlZCmBcLlblQp54Upz+dCnF7+N7g/YoHg8FLbT\nXMkgwh9H3YYmrEVzt1mV1HUa7mN33StYHdpefluiDPg3QBduOX8rov+vmilhWO61\n8ZrCGQb7rwKBgAnH87J1PAZEDKYSYq7hgD5EKpqOi/Iq524q8DN/16i9W2czNWnl\nh9p0OVE1YIOT134vONcY4vchj+12pEcCk6AGc+Wc+q2RMOsvpGXbzI4AMpxD4BHv\nqO6RDd9ZXG3UK3KReWoMCR6Cq+2eam0nc+h8mhZ3BXw+G2FhCdfHfITBAoGAUlfN\nXJZLog5TvX6dqXHm2HQj1fx1mnlDVcWe7nRdKkU+NFdw24s5pztVaXtfPfi70yFF\nG5kk9RwNjpblD8OVWvX91FfGVuzioULdQ7wZkfQOLnTsk256FafP1IW1QYN2dJdf\ny4Qgi+EouWeD9aFA+tAyQD30J7bqf1fKmCfxyskCgYEA4cElTpaIpydt58AKAOWh\n9uEsX/KSm1DcYFnE+AFMJ+KttevCepCJA0IzSFnaVjTPj25923q5xivDVy2qEMZU\nbCEL9/3jdu60U7dfej64QvRPoGQkyCp6XGSUhMEZoHQkUfokYW17s4whYquqcSoF\nQ+UYJ+FUy4igT/L6kbGBjOk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "petzen@vaja-stqi.iam.gserviceaccount.com",
+  "client_id": "113613304349649082798",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/petzen%40vaja-stqi.iam.gserviceaccount.com"
+}

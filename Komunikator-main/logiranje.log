@@ -1,0 +1,448 @@
+2021-11-25 13:57:45,022 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-11-25 13:57:45,028 - werkzeug - INFO -  * Restarting with stat
+2021-11-25 13:57:46,598 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-11-25 13:57:46,599 - werkzeug - WARNING -  * Debugger is active!
+2021-11-25 13:57:46,607 - werkzeug - INFO -  * Debugger PIN: 790-660-682
+2021-11-25 13:57:58,623 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-11-25 13:57:58,624 - werkzeug - INFO -  * Running on http://192.168.1.65:5000/ (Press CTRL+C to quit)
+2021-11-25 13:57:58,780 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 13:57:58] "GET / HTTP/1.1" 200 -
+2021-11-25 13:57:59,244 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2021-11-25 13:57:59,245 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 13:57:59] "GET /socket.io/?EIO=4&transport=polling&t=NrNB9J9 HTTP/1.1" 200 -
+2021-11-25 13:57:59,259 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 13:57:59] "POST /socket.io/?EIO=4&transport=polling&t=NrNB9JO&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 13:57:59,576 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 13:57:59] "GET /socket.io/?EIO=4&transport=polling&t=NrNB9JQ&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 13:57:59,882 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 13:57:59] "POST /socket.io/?EIO=4&transport=polling&t=NrNB9OR&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 13:58:01,865 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 13:58:01] "POST /socket.io/?EIO=4&transport=polling&t=NrNB9y5&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 13:58:03,167 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 13:58:03] "POST /socket.io/?EIO=4&transport=polling&t=NrNBABe&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 13:58:05,269 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 13:58:05] "GET /socket.io/?EIO=4&transport=polling&t=NrNB9OR.0&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 13:58:06,383 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 13:58:06] "GET /socket.io/?EIO=4&transport=polling&t=NrNBAnS&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 13:58:24,260 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 13:58:24] "GET /socket.io/?EIO=4&transport=polling&t=NrNBB2x&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 13:58:24,576 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 13:58:24] "POST /socket.io/?EIO=4&transport=polling&t=NrNBFQ9&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 13:58:49,590 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 13:58:49] "GET /socket.io/?EIO=4&transport=polling&t=NrNBFQ9.0&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 13:58:49,608 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 13:58:49] "POST /socket.io/?EIO=4&transport=polling&t=NrNBLc5&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 13:59:14,609 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 13:59:14] "GET /socket.io/?EIO=4&transport=polling&t=NrNBLc6&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 13:59:14,921 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 13:59:14] "POST /socket.io/?EIO=4&transport=polling&t=NrNBRir&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 13:59:39,927 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 13:59:39] "GET /socket.io/?EIO=4&transport=polling&t=NrNBRis&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 13:59:39,947 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 13:59:39] "POST /socket.io/?EIO=4&transport=polling&t=NrNBXuf&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:00:04,949 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:00:04] "GET /socket.io/?EIO=4&transport=polling&t=NrNBXuf.0&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:00:05,273 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:00:05] "POST /socket.io/?EIO=4&transport=polling&t=NrNBd_d&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:00:30,279 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:00:30] "GET /socket.io/?EIO=4&transport=polling&t=NrNBd_d.0&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:00:30,286 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:00:30] "POST /socket.io/?EIO=4&transport=polling&t=NrNBkBB&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:00:55,300 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:00:55] "GET /socket.io/?EIO=4&transport=polling&t=NrNBkBB.0&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:00:55,306 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:00:55] "POST /socket.io/?EIO=4&transport=polling&t=NrNBqI8&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:01:20,307 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:01:20] "GET /socket.io/?EIO=4&transport=polling&t=NrNBqI8.0&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:01:20,617 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:01:20] "POST /socket.io/?EIO=4&transport=polling&t=NrNBwOt&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:01:45,625 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:01:45] "GET /socket.io/?EIO=4&transport=polling&t=NrNBwOu&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:01:45,631 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:01:45] "POST /socket.io/?EIO=4&transport=polling&t=NrNC0aS&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:02:10,636 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:02:10] "GET /socket.io/?EIO=4&transport=polling&t=NrNC0aS.0&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:02:10,951 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:02:10] "POST /socket.io/?EIO=4&transport=polling&t=NrNC6hH&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:02:35,966 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:02:35] "GET /socket.io/?EIO=4&transport=polling&t=NrNC6hH.0&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:02:35,972 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:02:35] "POST /socket.io/?EIO=4&transport=polling&t=NrNCCt1&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:03:00,978 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:03:00] "GET /socket.io/?EIO=4&transport=polling&t=NrNCCt2&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:03:01,293 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:03:01] "POST /socket.io/?EIO=4&transport=polling&t=NrNCIzr&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:03:26,296 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:03:26] "GET /socket.io/?EIO=4&transport=polling&t=NrNCIzs&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:03:26,302 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:03:26] "POST /socket.io/?EIO=4&transport=polling&t=NrNCP9R&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:03:51,310 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:03:51] "GET /socket.io/?EIO=4&transport=polling&t=NrNCP9S&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:03:51,625 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:03:51] "POST /socket.io/?EIO=4&transport=polling&t=NrNCVGH&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:04:16,630 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:04:16] "GET /socket.io/?EIO=4&transport=polling&t=NrNCVGH.0&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:04:16,636 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:04:16] "POST /socket.io/?EIO=4&transport=polling&t=NrNCbRv&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:04:41,639 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:04:41] "GET /socket.io/?EIO=4&transport=polling&t=NrNCbRw&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:04:41,952 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:04:41] "POST /socket.io/?EIO=4&transport=polling&t=NrNChYg&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:05:06,958 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:05:06] "GET /socket.io/?EIO=4&transport=polling&t=NrNChYh&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:05:06,963 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:05:06] "POST /socket.io/?EIO=4&transport=polling&t=NrNCnkH&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:05:31,970 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:05:31] "GET /socket.io/?EIO=4&transport=polling&t=NrNCnkI&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:05:32,282 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:05:32] "POST /socket.io/?EIO=4&transport=polling&t=NrNCtr4&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:05:57,297 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:05:57] "GET /socket.io/?EIO=4&transport=polling&t=NrNCtr4.0&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:05:57,302 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:05:57] "POST /socket.io/?EIO=4&transport=polling&t=NrNC-0q&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:06:22,303 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:06:22] "GET /socket.io/?EIO=4&transport=polling&t=NrNC-0q.0&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:06:22,626 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:06:22] "POST /socket.io/?EIO=4&transport=polling&t=NrND47m&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:06:47,628 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:06:47] "GET /socket.io/?EIO=4&transport=polling&t=NrND47n&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:06:47,633 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:06:47] "POST /socket.io/?EIO=4&transport=polling&t=NrNDAJE&sid=BeKMp7KRhNCbbaTXAAAA HTTP/1.1" 200 -
+2021-11-25 14:17:53,093 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-11-25 14:17:53,100 - werkzeug - INFO -  * Restarting with stat
+2021-11-25 14:17:55,290 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-11-25 14:17:55,292 - werkzeug - WARNING -  * Debugger is active!
+2021-11-25 14:17:55,304 - werkzeug - INFO -  * Debugger PIN: 790-660-682
+2021-11-25 14:17:56,327 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-11-25 14:17:56,328 - werkzeug - INFO -  * Running on http://192.168.1.65:5000/ (Press CTRL+C to quit)
+2021-11-25 14:18:05,417 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:18:05] "GET / HTTP/1.1" 200 -
+2021-11-25 14:18:06,738 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2021-11-25 14:18:06,741 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:18:06] "GET /socket.io/?EIO=4&transport=polling&t=NrNFm6B HTTP/1.1" 200 -
+2021-11-25 14:18:06,838 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:18:06] "POST /socket.io/?EIO=4&transport=polling&t=NrNFm7m&sid=hCKNZgqlNBMdfiRcAAAA HTTP/1.1" 200 -
+2021-11-25 14:18:07,146 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:18:07] "GET /socket.io/?EIO=4&transport=polling&t=NrNFm7n&sid=hCKNZgqlNBMdfiRcAAAA HTTP/1.1" 200 -
+2021-11-25 14:18:07,227 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:18:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-11-25 14:18:07,462 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:18:07] "POST /socket.io/?EIO=4&transport=polling&t=NrNFmCk&sid=hCKNZgqlNBMdfiRcAAAA HTTP/1.1" 200 -
+2021-11-25 14:18:15,009 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:18:15] "POST /socket.io/?EIO=4&transport=polling&t=NrNFo2e&sid=hCKNZgqlNBMdfiRcAAAA HTTP/1.1" 200 -
+2021-11-25 14:18:31,753 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:18:31] "GET /socket.io/?EIO=4&transport=polling&t=NrNFmCl&sid=hCKNZgqlNBMdfiRcAAAA HTTP/1.1" 200 -
+2021-11-25 14:18:32,072 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:18:32] "POST /socket.io/?EIO=4&transport=polling&t=NrNFsDC&sid=hCKNZgqlNBMdfiRcAAAA HTTP/1.1" 200 -
+2021-11-25 14:18:57,086 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:18:57] "GET /socket.io/?EIO=4&transport=polling&t=NrNFsDD&sid=hCKNZgqlNBMdfiRcAAAA HTTP/1.1" 200 -
+2021-11-25 14:18:57,093 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:18:57] "POST /socket.io/?EIO=4&transport=polling&t=NrNFyP1&sid=hCKNZgqlNBMdfiRcAAAA HTTP/1.1" 200 -
+2021-11-25 14:19:22,097 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:19:22] "GET /socket.io/?EIO=4&transport=polling&t=NrNFyP1.0&sid=hCKNZgqlNBMdfiRcAAAA HTTP/1.1" 200 -
+2021-11-25 14:19:22,411 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:19:22] "POST /socket.io/?EIO=4&transport=polling&t=NrNG2Vq&sid=hCKNZgqlNBMdfiRcAAAA HTTP/1.1" 200 -
+2021-11-25 14:19:44,310 - werkzeug - INFO -  * Detected change in 'c:\\Users\\emama\\OneDrive\\Documents\\Coding\\Seca projekt\\Komunikator-main\\app\\output_to_user.py', reloading
+2021-11-25 14:19:44,509 - werkzeug - INFO -  * Restarting with stat
+2021-11-25 14:19:47,161 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-11-25 14:19:47,163 - werkzeug - WARNING -  * Debugger is active!
+2021-11-25 14:19:47,176 - werkzeug - INFO -  * Debugger PIN: 790-660-682
+2021-11-25 14:19:48,194 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-11-25 14:19:48,195 - werkzeug - INFO -  * Running on http://192.168.1.65:5000/ (Press CTRL+C to quit)
+2021-11-25 14:19:48,305 - engineio.server - ERROR - Invalid session hCKNZgqlNBMdfiRcAAAA (further occurrences of this error will be logged with level INFO)
+2021-11-25 14:19:48,309 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:19:48] "[31m[1mPOST /socket.io/?EIO=4&transport=polling&t=NrNG7zn&sid=hCKNZgqlNBMdfiRcAAAA HTTP/1.1[0m" 400 -
+2021-11-25 14:19:48,553 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2021-11-25 14:19:48,555 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:19:48] "GET /socket.io/?EIO=4&transport=polling&t=NrNG8Ea HTTP/1.1" 200 -
+2021-11-25 14:19:48,630 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:19:48] "POST /socket.io/?EIO=4&transport=polling&t=NrNG8zG&sid=_W8Zw_b8YT88uZyxAAAA HTTP/1.1" 200 -
+2021-11-25 14:19:48,878 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:19:48] "GET /socket.io/?EIO=4&transport=polling&t=NrNG8zH&sid=_W8Zw_b8YT88uZyxAAAA HTTP/1.1" 200 -
+2021-11-25 14:19:48,912 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:19:48] "POST /socket.io/?EIO=4&transport=polling&t=NrNG92S&sid=_W8Zw_b8YT88uZyxAAAA HTTP/1.1" 200 -
+2021-11-25 14:20:05,568 - werkzeug - INFO -  * Detected change in 'c:\\Users\\emama\\OneDrive\\Documents\\Coding\\Seca projekt\\Komunikator-main\\app\\user_input_acquisition.py', reloading
+2021-11-25 14:20:05,999 - werkzeug - INFO -  * Restarting with stat
+2021-11-25 14:20:09,640 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-11-25 14:20:09,643 - werkzeug - WARNING -  * Debugger is active!
+2021-11-25 14:20:09,657 - werkzeug - INFO -  * Debugger PIN: 790-660-682
+2021-11-25 14:20:10,761 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-11-25 14:20:10,762 - werkzeug - INFO -  * Running on http://192.168.1.65:5000/ (Press CTRL+C to quit)
+2021-11-25 14:20:11,889 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2021-11-25 14:20:11,891 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:20:11] "GET /socket.io/?EIO=4&transport=polling&t=NrNGEfc HTTP/1.1" 200 -
+2021-11-25 14:20:12,209 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:20:12] "POST /socket.io/?EIO=4&transport=polling&t=NrNGEfu&sid=EwQ7YVNF7s26BwMQAAAA HTTP/1.1" 200 -
+2021-11-25 14:20:12,210 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:20:12] "GET /socket.io/?EIO=4&transport=polling&t=NrNGEfu.0&sid=EwQ7YVNF7s26BwMQAAAA HTTP/1.1" 200 -
+2021-11-25 14:20:12,463 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:20:12] "POST /socket.io/?EIO=4&transport=polling&t=NrNGEkq&sid=EwQ7YVNF7s26BwMQAAAA HTTP/1.1" 200 -
+2021-11-25 14:20:16,133 - werkzeug - INFO -  * Detected change in 'c:\\Users\\emama\\OneDrive\\Documents\\Coding\\Seca projekt\\Komunikator-main\\app\\user_input_acquisition.py', reloading
+2021-11-25 14:20:16,355 - werkzeug - INFO -  * Restarting with stat
+2021-11-25 14:20:19,828 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-11-25 14:20:19,830 - werkzeug - WARNING -  * Debugger is active!
+2021-11-25 14:20:19,842 - werkzeug - INFO -  * Debugger PIN: 790-660-682
+2021-11-25 14:20:25,104 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-11-25 14:20:25,138 - werkzeug - INFO -  * Restarting with stat
+2021-11-25 14:20:27,526 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-11-25 14:20:27,528 - werkzeug - WARNING -  * Debugger is active!
+2021-11-25 14:20:27,540 - werkzeug - INFO -  * Debugger PIN: 790-660-682
+2021-11-25 14:20:28,577 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-11-25 14:20:28,578 - werkzeug - INFO -  * Running on http://192.168.1.65:5000/ (Press CTRL+C to quit)
+2021-11-25 14:20:33,319 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2021-11-25 14:20:33,321 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:20:33] "GET /socket.io/?EIO=4&transport=polling&t=NrNGJpi HTTP/1.1" 200 -
+2021-11-25 14:20:33,587 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:20:33] "POST /socket.io/?EIO=4&transport=polling&t=NrNGJui&sid=8hqpmqYHtmzbmhihAAAA HTTP/1.1" 200 -
+2021-11-25 14:20:33,634 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:20:33] "GET /socket.io/?EIO=4&transport=polling&t=NrNGJui.0&sid=8hqpmqYHtmzbmhihAAAA HTTP/1.1" 200 -
+2021-11-25 14:20:33,643 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:20:33] "POST /socket.io/?EIO=4&transport=polling&t=NrNGJzb&sid=8hqpmqYHtmzbmhihAAAA HTTP/1.1" 200 -
+2021-11-25 14:20:37,614 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:20:37] "GET / HTTP/1.1" 200 -
+2021-11-25 14:20:38,035 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:20:38] "GET /socket.io/?EIO=4&transport=polling&t=NrNGKzJ HTTP/1.1" 200 -
+2021-11-25 14:20:38,299 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:20:38] "POST /socket.io/?EIO=4&transport=polling&t=NrNGL2N&sid=4aSmHzPMPaXAmzZlAAAC HTTP/1.1" 200 -
+2021-11-25 14:20:38,361 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:20:38] "GET /socket.io/?EIO=4&transport=polling&t=NrNGL2N.0&sid=4aSmHzPMPaXAmzZlAAAC HTTP/1.1" 200 -
+2021-11-25 14:20:38,371 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:20:38] "POST /socket.io/?EIO=4&transport=polling&t=NrNGL7U&sid=4aSmHzPMPaXAmzZlAAAC HTTP/1.1" 200 -
+2021-11-25 14:20:48,247 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:20:48] "POST /socket.io/?EIO=4&transport=polling&t=NrNGNSm&sid=4aSmHzPMPaXAmzZlAAAC HTTP/1.1" 200 -
+2021-11-25 14:20:51,831 - check_route_data_integrity - INFO - Podatki so bili uspesno pridobljeni.
+2021-11-25 14:20:58,335 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:20:58] "GET /socket.io/?EIO=4&transport=polling&t=NrNGJzc&sid=8hqpmqYHtmzbmhihAAAA HTTP/1.1" 200 -
+2021-11-25 14:21:03,039 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:21:03] "GET /socket.io/?EIO=4&transport=polling&t=NrNGL7U.0&sid=4aSmHzPMPaXAmzZlAAAC HTTP/1.1" 200 -
+2021-11-25 14:21:03,364 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:21:03] "POST /socket.io/?EIO=4&transport=polling&t=NrNGR94&sid=4aSmHzPMPaXAmzZlAAAC HTTP/1.1" 200 -
+2021-11-25 14:21:28,365 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:21:28] "GET /socket.io/?EIO=4&transport=polling&t=NrNGR94.0&sid=4aSmHzPMPaXAmzZlAAAC HTTP/1.1" 200 -
+2021-11-25 14:21:28,375 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:21:28] "POST /socket.io/?EIO=4&transport=polling&t=NrNGXKn&sid=4aSmHzPMPaXAmzZlAAAC HTTP/1.1" 200 -
+2021-11-25 14:21:45,814 - werkzeug - INFO -  * Detected change in 'c:\\Users\\emama\\OneDrive\\Documents\\Coding\\Seca projekt\\Komunikator-main\\app\\directions_api.py', reloading
+2021-11-25 14:21:46,117 - werkzeug - INFO -  * Restarting with stat
+2021-11-25 14:21:50,841 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-11-25 14:21:50,845 - werkzeug - WARNING -  * Debugger is active!
+2021-11-25 14:21:50,866 - werkzeug - INFO -  * Debugger PIN: 790-660-682
+2021-11-25 14:21:52,008 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-11-25 14:21:52,009 - werkzeug - INFO -  * Running on http://192.168.1.65:5000/ (Press CTRL+C to quit)
+2021-11-25 14:21:53,110 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2021-11-25 14:21:53,112 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:21:53] "GET /socket.io/?EIO=4&transport=polling&t=NrNGdIU HTTP/1.1" 200 -
+2021-11-25 14:21:53,364 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:21:53] "POST /socket.io/?EIO=4&transport=polling&t=NrNGdNR&sid=X1LZpPQgkd9DihjfAAAA HTTP/1.1" 200 -
+2021-11-25 14:21:53,428 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:21:53] "GET /socket.io/?EIO=4&transport=polling&t=NrNGdNR.0&sid=X1LZpPQgkd9DihjfAAAA HTTP/1.1" 200 -
+2021-11-25 14:21:53,440 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:21:53] "POST /socket.io/?EIO=4&transport=polling&t=NrNGdSP&sid=X1LZpPQgkd9DihjfAAAA HTTP/1.1" 200 -
+2021-11-25 14:22:22,190 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-11-25 14:22:22,214 - werkzeug - INFO -  * Restarting with stat
+2021-11-25 14:22:24,185 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-11-25 14:22:24,186 - werkzeug - WARNING -  * Debugger is active!
+2021-11-25 14:22:24,198 - werkzeug - INFO -  * Debugger PIN: 790-660-682
+2021-11-25 14:22:28,289 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-11-25 14:22:28,290 - werkzeug - INFO -  * Running on http://192.168.1.65:5000/ (Press CTRL+C to quit)
+2021-11-25 14:22:31,367 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2021-11-25 14:22:31,368 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:22:31] "GET /socket.io/?EIO=4&transport=polling&t=NrNGmj2 HTTP/1.1" 200 -
+2021-11-25 14:22:31,680 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:22:31] "POST /socket.io/?EIO=4&transport=polling&t=NrNGmjC&sid=5qGXBSUpBJs-nrEWAAAA HTTP/1.1" 200 -
+2021-11-25 14:22:31,681 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:22:31] "GET /socket.io/?EIO=4&transport=polling&t=NrNGmjC.0&sid=5qGXBSUpBJs-nrEWAAAA HTTP/1.1" 200 -
+2021-11-25 14:22:31,948 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:22:31] "POST /socket.io/?EIO=4&transport=polling&t=NrNGmo4&sid=5qGXBSUpBJs-nrEWAAAA HTTP/1.1" 200 -
+2021-11-25 14:22:56,378 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:22:56] "GET /socket.io/?EIO=4&transport=polling&t=NrNGmo4.0&sid=5qGXBSUpBJs-nrEWAAAA HTTP/1.1" 200 -
+2021-11-25 14:22:56,390 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:22:56] "POST /socket.io/?EIO=4&transport=polling&t=NrNGsq0&sid=5qGXBSUpBJs-nrEWAAAA HTTP/1.1" 200 -
+2021-11-25 14:23:21,402 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:23:21] "GET /socket.io/?EIO=4&transport=polling&t=NrNGsq0.0&sid=5qGXBSUpBJs-nrEWAAAA HTTP/1.1" 200 -
+2021-11-25 14:23:21,721 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:23:21] "POST /socket.io/?EIO=4&transport=polling&t=NrNGyw-&sid=5qGXBSUpBJs-nrEWAAAA HTTP/1.1" 200 -
+2021-11-25 14:23:46,728 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:23:46] "GET /socket.io/?EIO=4&transport=polling&t=NrNGyw-.0&sid=5qGXBSUpBJs-nrEWAAAA HTTP/1.1" 200 -
+2021-11-25 14:23:46,736 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:23:46] "POST /socket.io/?EIO=4&transport=polling&t=NrNH36i&sid=5qGXBSUpBJs-nrEWAAAA HTTP/1.1" 200 -
+2021-11-25 14:24:11,749 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:24:11] "GET /socket.io/?EIO=4&transport=polling&t=NrNH36j&sid=5qGXBSUpBJs-nrEWAAAA HTTP/1.1" 200 -
+2021-11-25 14:24:12,068 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:24:12] "POST /socket.io/?EIO=4&transport=polling&t=NrNH9Df&sid=5qGXBSUpBJs-nrEWAAAA HTTP/1.1" 200 -
+2021-11-25 14:24:37,077 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:24:37] "GET /socket.io/?EIO=4&transport=polling&t=NrNH9Df.0&sid=5qGXBSUpBJs-nrEWAAAA HTTP/1.1" 200 -
+2021-11-25 14:24:37,125 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:24:37] "POST /socket.io/?EIO=4&transport=polling&t=NrNHFQ0&sid=5qGXBSUpBJs-nrEWAAAA HTTP/1.1" 200 -
+2021-11-25 14:25:02,141 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:25:02] "GET /socket.io/?EIO=4&transport=polling&t=NrNHFQ0.0&sid=5qGXBSUpBJs-nrEWAAAA HTTP/1.1" 200 -
+2021-11-25 14:25:02,456 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:25:02] "POST /socket.io/?EIO=4&transport=polling&t=NrNHLX0&sid=5qGXBSUpBJs-nrEWAAAA HTTP/1.1" 200 -
+2021-11-25 14:25:27,458 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:25:27] "GET / HTTP/1.1" 200 -
+2021-11-25 14:25:27,462 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:25:27] "GET /socket.io/?EIO=4&transport=polling&t=NrNHLX1&sid=5qGXBSUpBJs-nrEWAAAA HTTP/1.1" 200 -
+2021-11-25 14:25:27,889 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:25:27] "GET /socket.io/?EIO=4&transport=polling&t=NrNHRkI HTTP/1.1" 200 -
+2021-11-25 14:25:28,155 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:25:28] "POST /socket.io/?EIO=4&transport=polling&t=NrNHRpM&sid=4uVcrgw1G_XGxvA_AAAC HTTP/1.1" 200 -
+2021-11-25 14:25:28,203 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:25:28] "GET /socket.io/?EIO=4&transport=polling&t=NrNHRpM.0&sid=4uVcrgw1G_XGxvA_AAAC HTTP/1.1" 200 -
+2021-11-25 14:25:28,214 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:25:28] "POST /socket.io/?EIO=4&transport=polling&t=NrNHRuF&sid=4uVcrgw1G_XGxvA_AAAC HTTP/1.1" 200 -
+2021-11-25 14:25:37,766 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:25:37] "POST /socket.io/?EIO=4&transport=polling&t=NrNHU8J&sid=4uVcrgw1G_XGxvA_AAAC HTTP/1.1" 200 -
+2021-11-25 14:25:41,065 - check_route_data_integrity - INFO - Podatki so bili uspesno pridobljeni.
+2021-11-25 14:26:59,655 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-11-25 14:26:59,662 - werkzeug - INFO -  * Restarting with stat
+2021-11-25 14:27:02,854 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-11-25 14:27:02,856 - werkzeug - WARNING -  * Debugger is active!
+2021-11-25 14:27:02,867 - werkzeug - INFO -  * Debugger PIN: 790-660-682
+2021-11-25 14:27:03,889 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-11-25 14:27:03,890 - werkzeug - INFO -  * Running on http://192.168.1.65:5000/ (Press CTRL+C to quit)
+2021-11-25 14:27:04,926 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:27:04] "GET / HTTP/1.1" 200 -
+2021-11-25 14:27:06,077 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2021-11-25 14:27:06,080 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:27:06] "GET /socket.io/?EIO=4&transport=polling&t=NrNHpnN HTTP/1.1" 200 -
+2021-11-25 14:27:06,168 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:27:06] "POST /socket.io/?EIO=4&transport=polling&t=NrNHpop&sid=t2se-8KOAzom_xpaAAAA HTTP/1.1" 200 -
+2021-11-25 14:27:06,483 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:27:06] "GET /socket.io/?EIO=4&transport=polling&t=NrNHpoq&sid=t2se-8KOAzom_xpaAAAA HTTP/1.1" 200 -
+2021-11-25 14:27:06,795 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:27:06] "POST /socket.io/?EIO=4&transport=polling&t=NrNHptt&sid=t2se-8KOAzom_xpaAAAA HTTP/1.1" 200 -
+2021-11-25 14:27:13,182 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:27:13] "POST /socket.io/?EIO=4&transport=polling&t=NrNHrWN&sid=t2se-8KOAzom_xpaAAAA HTTP/1.1" 200 -
+2021-11-25 14:27:16,565 - check_route_data_integrity - INFO - Podatki so bili uspesno pridobljeni.
+2021-11-25 14:27:31,093 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:27:31] "GET /socket.io/?EIO=4&transport=polling&t=NrNHptu&sid=t2se-8KOAzom_xpaAAAA HTTP/1.1" 200 -
+2021-11-25 14:27:31,404 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:27:31] "POST /socket.io/?EIO=4&transport=polling&t=NrNHvuP&sid=t2se-8KOAzom_xpaAAAA HTTP/1.1" 200 -
+2021-11-25 14:27:56,406 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:27:56] "GET /socket.io/?EIO=4&transport=polling&t=NrNHvuP.0&sid=t2se-8KOAzom_xpaAAAA HTTP/1.1" 200 -
+2021-11-25 14:27:56,417 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:27:56] "POST /socket.io/?EIO=4&transport=polling&t=NrNI03z&sid=t2se-8KOAzom_xpaAAAA HTTP/1.1" 200 -
+2021-11-25 14:28:21,425 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:28:21] "GET /socket.io/?EIO=4&transport=polling&t=NrNI03z.0&sid=t2se-8KOAzom_xpaAAAA HTTP/1.1" 200 -
+2021-11-25 14:28:21,737 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:28:21] "POST /socket.io/?EIO=4&transport=polling&t=NrNI6Ar&sid=t2se-8KOAzom_xpaAAAA HTTP/1.1" 200 -
+2021-11-25 14:28:46,750 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:28:46] "GET /socket.io/?EIO=4&transport=polling&t=NrNI6Ar.0&sid=t2se-8KOAzom_xpaAAAA HTTP/1.1" 200 -
+2021-11-25 14:28:46,763 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:28:46] "POST /socket.io/?EIO=4&transport=polling&t=NrNICMb&sid=t2se-8KOAzom_xpaAAAA HTTP/1.1" 200 -
+2021-11-25 14:29:11,764 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:29:11] "GET /socket.io/?EIO=4&transport=polling&t=NrNICMb.0&sid=t2se-8KOAzom_xpaAAAA HTTP/1.1" 200 -
+2021-11-25 14:29:12,077 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:29:12] "POST /socket.io/?EIO=4&transport=polling&t=NrNIITP&sid=t2se-8KOAzom_xpaAAAA HTTP/1.1" 200 -
+2021-11-25 14:29:37,083 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:29:37] "GET /socket.io/?EIO=4&transport=polling&t=NrNIITP.0&sid=t2se-8KOAzom_xpaAAAA HTTP/1.1" 200 -
+2021-11-25 14:29:37,091 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:29:37] "POST /socket.io/?EIO=4&transport=polling&t=NrNIOe_&sid=t2se-8KOAzom_xpaAAAA HTTP/1.1" 200 -
+2021-11-25 14:30:02,107 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:30:02] "GET /socket.io/?EIO=4&transport=polling&t=NrNIOe_.0&sid=t2se-8KOAzom_xpaAAAA HTTP/1.1" 200 -
+2021-11-25 14:30:02,420 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:30:02] "POST /socket.io/?EIO=4&transport=polling&t=NrNIUl_&sid=t2se-8KOAzom_xpaAAAA HTTP/1.1" 200 -
+2021-11-25 14:30:27,436 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:30:27] "GET /socket.io/?EIO=4&transport=polling&t=NrNIUm0&sid=t2se-8KOAzom_xpaAAAA HTTP/1.1" 200 -
+2021-11-25 14:30:27,446 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:30:27] "POST /socket.io/?EIO=4&transport=polling&t=NrNIaxm&sid=t2se-8KOAzom_xpaAAAA HTTP/1.1" 200 -
+2021-11-25 14:30:52,449 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:30:52] "GET /socket.io/?EIO=4&transport=polling&t=NrNIaxm.0&sid=t2se-8KOAzom_xpaAAAA HTTP/1.1" 200 -
+2021-11-25 14:30:52,764 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:30:52] "POST /socket.io/?EIO=4&transport=polling&t=NrNIh2a&sid=t2se-8KOAzom_xpaAAAA HTTP/1.1" 200 -
+2021-11-25 14:31:17,770 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:31:17] "GET /socket.io/?EIO=4&transport=polling&t=NrNIh2a.0&sid=t2se-8KOAzom_xpaAAAA HTTP/1.1" 200 -
+2021-11-25 14:31:17,779 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:31:17] "POST /socket.io/?EIO=4&transport=polling&t=NrNInEF&sid=t2se-8KOAzom_xpaAAAA HTTP/1.1" 200 -
+2021-11-25 14:31:42,792 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:31:42] "GET /socket.io/?EIO=4&transport=polling&t=NrNInEF.0&sid=t2se-8KOAzom_xpaAAAA HTTP/1.1" 200 -
+2021-11-25 14:31:43,106 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:31:43] "POST /socket.io/?EIO=4&transport=polling&t=NrNItLC&sid=t2se-8KOAzom_xpaAAAA HTTP/1.1" 200 -
+2021-11-25 14:31:49,096 - werkzeug - INFO -  * Detected change in 'c:\\Users\\emama\\OneDrive\\Documents\\Coding\\Seca projekt\\Komunikator-main\\app\\directions_api.py', reloading
+2021-11-25 14:31:49,361 - werkzeug - INFO -  * Restarting with stat
+2021-11-25 14:31:52,461 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-11-25 14:31:52,463 - werkzeug - WARNING -  * Debugger is active!
+2021-11-25 14:31:52,475 - werkzeug - INFO -  * Debugger PIN: 790-660-682
+2021-11-25 14:31:53,607 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-11-25 14:31:53,608 - werkzeug - INFO -  * Running on http://192.168.1.65:5000/ (Press CTRL+C to quit)
+2021-11-25 14:31:53,701 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2021-11-25 14:31:53,704 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:31:53] "GET /socket.io/?EIO=4&transport=polling&t=NrNIvI8 HTTP/1.1" 200 -
+2021-11-25 14:31:53,854 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:31:53] "POST /socket.io/?EIO=4&transport=polling&t=NrNIv_j&sid=UCYWnbCMjC4xmpFFAAAA HTTP/1.1" 200 -
+2021-11-25 14:31:54,026 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:31:54] "GET /socket.io/?EIO=4&transport=polling&t=NrNIv_l&sid=UCYWnbCMjC4xmpFFAAAA HTTP/1.1" 200 -
+2021-11-25 14:31:54,039 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:31:54] "POST /socket.io/?EIO=4&transport=polling&t=NrNIw4m&sid=UCYWnbCMjC4xmpFFAAAA HTTP/1.1" 200 -
+2021-11-25 14:31:59,160 - werkzeug - INFO -  * Detected change in 'c:\\Users\\emama\\OneDrive\\Documents\\Coding\\Seca projekt\\Komunikator-main\\app\\directions_api.py', reloading
+2021-11-25 14:31:59,410 - werkzeug - INFO -  * Restarting with stat
+2021-11-25 14:32:03,286 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-11-25 14:32:03,288 - werkzeug - WARNING -  * Debugger is active!
+2021-11-25 14:32:03,306 - werkzeug - INFO -  * Debugger PIN: 790-660-682
+2021-11-25 14:32:04,379 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-11-25 14:32:04,380 - werkzeug - INFO -  * Running on http://192.168.1.65:5000/ (Press CTRL+C to quit)
+2021-11-25 14:32:06,811 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2021-11-25 14:32:06,813 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:32:06] "GET /socket.io/?EIO=4&transport=polling&t=NrNIzCM HTTP/1.1" 200 -
+2021-11-25 14:32:07,135 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:32:07] "POST /socket.io/?EIO=4&transport=polling&t=NrNIzCX&sid=AUFqEovKntaSD14fAAAA HTTP/1.1" 200 -
+2021-11-25 14:32:07,136 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:32:07] "GET /socket.io/?EIO=4&transport=polling&t=NrNIzCX.0&sid=AUFqEovKntaSD14fAAAA HTTP/1.1" 200 -
+2021-11-25 14:32:07,384 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:32:07] "POST /socket.io/?EIO=4&transport=polling&t=NrNIzHZ&sid=AUFqEovKntaSD14fAAAA HTTP/1.1" 200 -
+2021-11-25 14:32:23,170 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-11-25 14:32:23,175 - werkzeug - INFO -  * Restarting with stat
+2021-11-25 14:32:24,859 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-11-25 14:32:24,861 - werkzeug - WARNING -  * Debugger is active!
+2021-11-25 14:32:24,871 - werkzeug - INFO -  * Debugger PIN: 790-660-682
+2021-11-25 14:32:25,869 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-11-25 14:32:25,870 - werkzeug - INFO -  * Running on http://192.168.1.65:5000/ (Press CTRL+C to quit)
+2021-11-25 14:32:26,957 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:32:26] "GET / HTTP/1.1" 200 -
+2021-11-25 14:32:27,765 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2021-11-25 14:32:27,767 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:32:27] "GET /socket.io/?EIO=4&transport=polling&t=NrNJ2Jm HTTP/1.1" 200 -
+2021-11-25 14:32:27,868 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:32:27] "POST /socket.io/?EIO=4&transport=polling&t=NrNJ2LM&sid=ijwfDF_JsCNZibHfAAAA HTTP/1.1" 200 -
+2021-11-25 14:32:28,175 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:32:28] "GET /socket.io/?EIO=4&transport=polling&t=NrNJ2LN&sid=ijwfDF_JsCNZibHfAAAA HTTP/1.1" 200 -
+2021-11-25 14:32:28,485 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:32:28] "POST /socket.io/?EIO=4&transport=polling&t=NrNJ2QJ&sid=ijwfDF_JsCNZibHfAAAA HTTP/1.1" 200 -
+2021-11-25 14:32:38,350 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:32:38] "POST /socket.io/?EIO=4&transport=polling&t=NrNJ4v7&sid=ijwfDF_JsCNZibHfAAAA HTTP/1.1" 200 -
+2021-11-25 14:32:41,663 - check_route_data_integrity - INFO - Podatki so bili uspesno pridobljeni.
+2021-11-25 14:32:52,777 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:32:52] "GET /socket.io/?EIO=4&transport=polling&t=NrNJ2QK&sid=ijwfDF_JsCNZibHfAAAA HTTP/1.1" 200 -
+2021-11-25 14:32:53,090 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:32:53] "POST /socket.io/?EIO=4&transport=polling&t=NrNJ8Qi&sid=ijwfDF_JsCNZibHfAAAA HTTP/1.1" 200 -
+2021-11-25 14:52:10,307 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-11-25 14:52:10,311 - werkzeug - INFO -  * Restarting with stat
+2021-11-25 14:52:12,291 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-11-25 14:52:12,298 - werkzeug - WARNING -  * Debugger is active!
+2021-11-25 14:52:12,335 - werkzeug - INFO -  * Debugger PIN: 790-660-682
+2021-11-25 14:52:13,439 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-11-25 14:52:13,440 - werkzeug - INFO -  * Running on http://192.168.1.65:5000/ (Press CTRL+C to quit)
+2021-11-25 14:52:19,589 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:52:19] "GET / HTTP/1.1" 200 -
+2021-11-25 14:52:20,697 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2021-11-25 14:52:20,699 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:52:20] "GET /socket.io/?EIO=4&transport=polling&t=NrNNbZL HTTP/1.1" 200 -
+2021-11-25 14:52:20,802 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:52:20] "POST /socket.io/?EIO=4&transport=polling&t=NrNNbaz&sid=V8klVpZbO38-u8eDAAAA HTTP/1.1" 200 -
+2021-11-25 14:52:21,106 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:52:21] "GET /socket.io/?EIO=4&transport=polling&t=NrNNba-&sid=V8klVpZbO38-u8eDAAAA HTTP/1.1" 200 -
+2021-11-25 14:52:21,186 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:52:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-11-25 14:52:21,420 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:52:21] "POST /socket.io/?EIO=4&transport=polling&t=NrNNbfs&sid=V8klVpZbO38-u8eDAAAA HTTP/1.1" 200 -
+2021-11-25 14:52:29,938 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:52:29] "POST /socket.io/?EIO=4&transport=polling&t=NrNNdky&sid=V8klVpZbO38-u8eDAAAA HTTP/1.1" 200 -
+2021-11-25 14:52:35,054 - check_route_data_integrity - INFO - Podatki so bili uspesno pridobljeni.
+2021-11-25 14:52:45,714 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:52:45] "GET /socket.io/?EIO=4&transport=polling&t=NrNNbft&sid=V8klVpZbO38-u8eDAAAA HTTP/1.1" 200 -
+2021-11-25 14:52:46,027 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:52:46] "POST /socket.io/?EIO=4&transport=polling&t=NrNNhgO&sid=V8klVpZbO38-u8eDAAAA HTTP/1.1" 200 -
+2021-11-25 14:53:11,039 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:53:11] "GET /socket.io/?EIO=4&transport=polling&t=NrNNhgO.0&sid=V8klVpZbO38-u8eDAAAA HTTP/1.1" 200 -
+2021-11-25 14:53:11,049 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:53:11] "POST /socket.io/?EIO=4&transport=polling&t=NrNNns4&sid=V8klVpZbO38-u8eDAAAA HTTP/1.1" 200 -
+2021-11-25 14:53:36,060 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:53:36] "GET /socket.io/?EIO=4&transport=polling&t=NrNNns4.0&sid=V8klVpZbO38-u8eDAAAA HTTP/1.1" 200 -
+2021-11-25 14:53:36,380 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:53:36] "POST /socket.io/?EIO=4&transport=polling&t=NrNNtz0&sid=V8klVpZbO38-u8eDAAAA HTTP/1.1" 200 -
+2021-11-25 14:57:16,307 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-11-25 14:57:16,312 - werkzeug - INFO -  * Restarting with stat
+2021-11-25 14:57:17,992 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-11-25 14:57:17,994 - werkzeug - WARNING -  * Debugger is active!
+2021-11-25 14:57:18,005 - werkzeug - INFO -  * Debugger PIN: 790-660-682
+2021-11-25 14:57:19,042 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-11-25 14:57:19,043 - werkzeug - INFO -  * Running on http://192.168.1.65:5000/ (Press CTRL+C to quit)
+2021-11-25 14:57:19,714 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2021-11-25 14:57:19,716 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:57:19] "GET /socket.io/?EIO=4&transport=polling&t=NrNOkUY HTTP/1.1" 200 -
+2021-11-25 14:57:19,964 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:57:19] "POST /socket.io/?EIO=4&transport=polling&t=NrNOkZn&sid=84dC8xtOquL6qAk8AAAA HTTP/1.1" 200 -
+2021-11-25 14:57:20,044 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:57:20] "GET /socket.io/?EIO=4&transport=polling&t=NrNOkZo&sid=84dC8xtOquL6qAk8AAAA HTTP/1.1" 200 -
+2021-11-25 14:57:20,055 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:57:20] "POST /socket.io/?EIO=4&transport=polling&t=NrNOken&sid=84dC8xtOquL6qAk8AAAA HTTP/1.1" 200 -
+2021-11-25 14:57:20,935 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:57:20] "GET / HTTP/1.1" 200 -
+2021-11-25 14:57:21,329 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:57:21] "GET /socket.io/?EIO=4&transport=polling&t=NrNOktz HTTP/1.1" 200 -
+2021-11-25 14:57:21,602 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:57:21] "POST /socket.io/?EIO=4&transport=polling&t=NrNOkyq&sid=hFb7IHZthB-tjVBXAAAC HTTP/1.1" 200 -
+2021-11-25 14:57:21,648 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:57:21] "GET /socket.io/?EIO=4&transport=polling&t=NrNOkyr&sid=hFb7IHZthB-tjVBXAAAC HTTP/1.1" 200 -
+2021-11-25 14:57:21,657 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:57:21] "POST /socket.io/?EIO=4&transport=polling&t=NrNOl1r&sid=hFb7IHZthB-tjVBXAAAC HTTP/1.1" 200 -
+2021-11-25 14:57:40,961 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:57:40] "POST /socket.io/?EIO=4&transport=polling&t=NrNOpgB&sid=hFb7IHZthB-tjVBXAAAC HTTP/1.1" 200 -
+2021-11-25 14:57:44,435 - check_route_data_integrity - INFO - Podatki so bili uspesno pridobljeni.
+2021-11-25 14:57:44,716 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:57:44] "GET /socket.io/?EIO=4&transport=polling&t=NrNOken.0&sid=84dC8xtOquL6qAk8AAAA HTTP/1.1" 200 -
+2021-11-25 14:57:46,338 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:57:46] "GET /socket.io/?EIO=4&transport=polling&t=NrNOl1r.0&sid=hFb7IHZthB-tjVBXAAAC HTTP/1.1" 200 -
+2021-11-25 14:57:46,652 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 14:57:46] "POST /socket.io/?EIO=4&transport=polling&t=NrNOr3c&sid=hFb7IHZthB-tjVBXAAAC HTTP/1.1" 200 -
+2021-11-25 15:00:05,003 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-11-25 15:00:05,009 - werkzeug - INFO -  * Restarting with stat
+2021-11-25 15:00:07,214 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-11-25 15:00:07,221 - werkzeug - WARNING -  * Debugger is active!
+2021-11-25 15:00:07,241 - werkzeug - INFO -  * Debugger PIN: 790-660-682
+2021-11-25 15:00:08,401 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-11-25 15:00:08,402 - werkzeug - INFO -  * Running on http://192.168.1.65:5000/ (Press CTRL+C to quit)
+2021-11-25 15:00:08,602 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2021-11-25 15:00:08,603 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 15:00:08] "GET /socket.io/?EIO=4&transport=polling&t=NrNPN6f HTTP/1.1" 200 -
+2021-11-25 15:00:08,848 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 15:00:08] "POST /socket.io/?EIO=4&transport=polling&t=NrNPNoW&sid=OIJNf53LqTodAAVdAAAA HTTP/1.1" 200 -
+2021-11-25 15:00:08,925 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 15:00:08] "GET /socket.io/?EIO=4&transport=polling&t=NrNPNoW.0&sid=OIJNf53LqTodAAVdAAAA HTTP/1.1" 200 -
+2021-11-25 15:00:08,935 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 15:00:08] "POST /socket.io/?EIO=4&transport=polling&t=NrNPNtX&sid=OIJNf53LqTodAAVdAAAA HTTP/1.1" 200 -
+2021-11-25 15:00:09,258 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 15:00:09] "GET / HTTP/1.1" 200 -
+2021-11-25 15:00:09,470 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 15:00:09] "GET /socket.io/?EIO=4&transport=polling&t=NrNPN-j HTTP/1.1" 200 -
+2021-11-25 15:00:09,701 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 15:00:09] "POST /socket.io/?EIO=4&transport=polling&t=NrNPO0j&sid=yDhPjjYAOhrvLBseAAAC HTTP/1.1" 200 -
+2021-11-25 15:00:09,827 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 15:00:09] "GET /socket.io/?EIO=4&transport=polling&t=NrNPO0k&sid=yDhPjjYAOhrvLBseAAAC HTTP/1.1" 200 -
+2021-11-25 15:00:09,835 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 15:00:09] "POST /socket.io/?EIO=4&transport=polling&t=NrNPO5c&sid=yDhPjjYAOhrvLBseAAAC HTTP/1.1" 200 -
+2021-11-25 15:00:17,959 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 15:00:17] "POST /socket.io/?EIO=4&transport=polling&t=NrNPP_W&sid=yDhPjjYAOhrvLBseAAAC HTTP/1.1" 200 -
+2021-11-25 15:00:34,481 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 15:00:34] "GET /socket.io/?EIO=4&transport=polling&t=NrNPO5d&sid=yDhPjjYAOhrvLBseAAAC HTTP/1.1" 200 -
+2021-11-25 15:00:34,811 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 15:00:34] "POST /socket.io/?EIO=4&transport=polling&t=NrNPU6w&sid=yDhPjjYAOhrvLBseAAAC HTTP/1.1" 200 -
+2021-11-25 15:00:59,817 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 15:00:59] "GET /socket.io/?EIO=4&transport=polling&t=NrNPU6x&sid=yDhPjjYAOhrvLBseAAAC HTTP/1.1" 200 -
+2021-11-25 15:00:59,826 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 15:00:59] "POST /socket.io/?EIO=4&transport=polling&t=NrNPaIj&sid=yDhPjjYAOhrvLBseAAAC HTTP/1.1" 200 -
+2021-11-25 15:01:01,941 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 15:01:01] "GET / HTTP/1.1" 200 -
+2021-11-25 15:01:02,350 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 15:01:02] "GET /socket.io/?EIO=4&transport=polling&t=NrNParP HTTP/1.1" 200 -
+2021-11-25 15:01:02,614 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 15:01:02] "POST /socket.io/?EIO=4&transport=polling&t=NrNPawO&sid=KULltAwL2r4KsZNwAAAE HTTP/1.1" 200 -
+2021-11-25 15:01:02,675 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 15:01:02] "GET /socket.io/?EIO=4&transport=polling&t=NrNPawP&sid=KULltAwL2r4KsZNwAAAE HTTP/1.1" 200 -
+2021-11-25 15:01:02,683 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 15:01:02] "POST /socket.io/?EIO=4&transport=polling&t=NrNPa_N&sid=KULltAwL2r4KsZNwAAAE HTTP/1.1" 200 -
+2021-11-25 15:01:05,412 - check_route_data_integrity - INFO - Podatki so bili uspesno pridobljeni.
+2021-11-25 17:30:34,262 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-11-25 17:30:34,267 - werkzeug - INFO -  * Restarting with stat
+2021-11-25 17:30:36,275 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-11-25 17:30:36,277 - werkzeug - WARNING -  * Debugger is active!
+2021-11-25 17:30:36,289 - werkzeug - INFO -  * Debugger PIN: 790-660-682
+2021-11-25 17:30:36,438 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-11-25 17:30:36,439 - werkzeug - INFO -  * Running on http://192.168.1.65:5000/ (Press CTRL+C to quit)
+2021-11-25 17:30:45,241 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:30:45] "GET / HTTP/1.1" 200 -
+2021-11-25 17:30:45,926 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2021-11-25 17:30:45,928 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:30:45] "GET /socket.io/?EIO=4&transport=polling&t=NrNxsAY HTTP/1.1" 200 -
+2021-11-25 17:30:45,953 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:30:45] "POST /socket.io/?EIO=4&transport=polling&t=NrNxsAy&sid=r0JsqN5NO7d1NQuAAAAA HTTP/1.1" 200 -
+2021-11-25 17:30:46,260 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:30:46] "GET /socket.io/?EIO=4&transport=polling&t=NrNxsAy.0&sid=r0JsqN5NO7d1NQuAAAAA HTTP/1.1" 200 -
+2021-11-25 17:30:46,261 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:30:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-11-25 17:30:46,575 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:30:46] "POST /socket.io/?EIO=4&transport=polling&t=NrNxsFu&sid=r0JsqN5NO7d1NQuAAAAA HTTP/1.1" 200 -
+2021-11-25 17:30:49,878 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:30:49] "POST /socket.io/?EIO=4&transport=polling&t=NrNxt8H&sid=r0JsqN5NO7d1NQuAAAAA HTTP/1.1" 200 -
+2021-11-25 17:31:08,750 - check_route_data_integrity - INFO - Podatki so bili uspesno pridobljeni.
+2021-11-25 17:31:10,935 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:31:10] "GET /socket.io/?EIO=4&transport=polling&t=NrNxsFu.0&sid=r0JsqN5NO7d1NQuAAAAA HTTP/1.1" 200 -
+2021-11-25 17:31:11,260 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:31:11] "POST /socket.io/?EIO=4&transport=polling&t=NrNxyHV&sid=r0JsqN5NO7d1NQuAAAAA HTTP/1.1" 200 -
+2021-11-25 17:31:36,266 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:31:36] "GET /socket.io/?EIO=4&transport=polling&t=NrNxyHW&sid=r0JsqN5NO7d1NQuAAAAA HTTP/1.1" 200 -
+2021-11-25 17:31:36,284 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:31:36] "POST /socket.io/?EIO=4&transport=polling&t=NrNy2TK&sid=r0JsqN5NO7d1NQuAAAAA HTTP/1.1" 200 -
+2021-11-25 17:32:01,291 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:32:01] "GET /socket.io/?EIO=4&transport=polling&t=NrNy2TL&sid=r0JsqN5NO7d1NQuAAAAA HTTP/1.1" 200 -
+2021-11-25 17:32:01,617 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:32:01] "POST /socket.io/?EIO=4&transport=polling&t=NrNy8aJ&sid=r0JsqN5NO7d1NQuAAAAA HTTP/1.1" 200 -
+2021-11-25 17:32:26,628 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:32:26] "GET /socket.io/?EIO=4&transport=polling&t=NrNy8aL&sid=r0JsqN5NO7d1NQuAAAAA HTTP/1.1" 200 -
+2021-11-25 17:32:26,633 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:32:26] "POST /socket.io/?EIO=4&transport=polling&t=NrNyEm7&sid=r0JsqN5NO7d1NQuAAAAA HTTP/1.1" 200 -
+2021-11-25 17:32:35,873 - werkzeug - INFO -  * Detected change in 'c:\\Users\\emama\\OneDrive\\Documents\\Coding\\Seca projekt\\Komunikator-main\\app\\conversation_main.py', reloading
+2021-11-25 17:32:36,007 - werkzeug - INFO -  * Restarting with stat
+2021-11-25 17:32:38,364 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-11-25 17:32:38,366 - werkzeug - WARNING -  * Debugger is active!
+2021-11-25 17:32:38,379 - werkzeug - INFO -  * Debugger PIN: 790-660-682
+2021-11-25 17:32:38,558 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-11-25 17:32:38,559 - werkzeug - INFO -  * Running on http://192.168.1.65:5000/ (Press CTRL+C to quit)
+2021-11-25 17:32:38,568 - engineio.server - ERROR - Invalid session r0JsqN5NO7d1NQuAAAAA (further occurrences of this error will be logged with level INFO)
+2021-11-25 17:32:38,570 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:32:38] "[31m[1mPOST /socket.io/?EIO=4&transport=polling&t=NrNyH2T&sid=r0JsqN5NO7d1NQuAAAAA HTTP/1.1[0m" 400 -
+2021-11-25 17:32:38,624 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2021-11-25 17:32:38,627 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:32:38] "GET /socket.io/?EIO=4&transport=polling&t=NrNyHGV HTTP/1.1" 200 -
+2021-11-25 17:32:38,736 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:32:38] "POST /socket.io/?EIO=4&transport=polling&t=NrNyHhd&sid=ZyJMS2mHlg_kfJY2AAAA HTTP/1.1" 200 -
+2021-11-25 17:32:38,946 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:32:38] "GET /socket.io/?EIO=4&transport=polling&t=NrNyHhe&sid=ZyJMS2mHlg_kfJY2AAAA HTTP/1.1" 200 -
+2021-11-25 17:32:38,981 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:32:38] "POST /socket.io/?EIO=4&transport=polling&t=NrNyHmj&sid=ZyJMS2mHlg_kfJY2AAAA HTTP/1.1" 200 -
+2021-11-25 17:32:41,132 - werkzeug - INFO -  * Detected change in 'c:\\Users\\emama\\OneDrive\\Documents\\Coding\\Seca projekt\\Komunikator-main\\app\\conversation_main.py', reloading
+2021-11-25 17:32:41,384 - werkzeug - INFO -  * Restarting with stat
+2021-11-25 17:32:43,806 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-11-25 17:32:43,808 - werkzeug - WARNING -  * Debugger is active!
+2021-11-25 17:32:43,820 - werkzeug - INFO -  * Debugger PIN: 790-660-682
+2021-11-25 17:32:44,042 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-11-25 17:32:44,043 - werkzeug - INFO -  * Running on http://192.168.1.65:5000/ (Press CTRL+C to quit)
+2021-11-25 17:32:44,105 - engineio.server - ERROR - Invalid session ZyJMS2mHlg_kfJY2AAAA (further occurrences of this error will be logged with level INFO)
+2021-11-25 17:32:44,107 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:32:44] "[31m[1mPOST /socket.io/?EIO=4&transport=polling&t=NrNyIMG&sid=ZyJMS2mHlg_kfJY2AAAA HTTP/1.1[0m" 400 -
+2021-11-25 17:32:44,167 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2021-11-25 17:32:44,169 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:32:44] "GET /socket.io/?EIO=4&transport=polling&t=NrNyIiJ HTTP/1.1" 200 -
+2021-11-25 17:32:44,398 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:32:44] "POST /socket.io/?EIO=4&transport=polling&t=NrNyJ2C&sid=JpFdgZW4y-1ACIRXAAAA HTTP/1.1" 200 -
+2021-11-25 17:32:44,476 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:32:44] "GET /socket.io/?EIO=4&transport=polling&t=NrNyJ2D&sid=JpFdgZW4y-1ACIRXAAAA HTTP/1.1" 200 -
+2021-11-25 17:32:44,481 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:32:44] "POST /socket.io/?EIO=4&transport=polling&t=NrNyJ6_&sid=JpFdgZW4y-1ACIRXAAAA HTTP/1.1" 200 -
+2021-11-25 17:33:05,003 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-11-25 17:33:05,009 - werkzeug - INFO -  * Restarting with stat
+2021-11-25 17:33:07,082 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-11-25 17:33:07,083 - werkzeug - WARNING -  * Debugger is active!
+2021-11-25 17:33:07,094 - werkzeug - INFO -  * Debugger PIN: 790-660-682
+2021-11-25 17:33:07,254 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-11-25 17:33:07,254 - werkzeug - INFO -  * Running on http://192.168.1.65:5000/ (Press CTRL+C to quit)
+2021-11-25 17:33:07,264 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2021-11-25 17:33:07,266 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:33:07] "GET /socket.io/?EIO=4&transport=polling&t=NrNyO9t HTTP/1.1" 200 -
+2021-11-25 17:33:07,488 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:33:07] "POST /socket.io/?EIO=4&transport=polling&t=NrNyOh4&sid=fnle6dOYxQskhH6zAAAA HTTP/1.1" 200 -
+2021-11-25 17:33:07,582 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:33:07] "GET /socket.io/?EIO=4&transport=polling&t=NrNyOh5&sid=fnle6dOYxQskhH6zAAAA HTTP/1.1" 200 -
+2021-11-25 17:33:07,588 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:33:07] "POST /socket.io/?EIO=4&transport=polling&t=NrNyOm0&sid=fnle6dOYxQskhH6zAAAA HTTP/1.1" 200 -
+2021-11-25 17:33:11,147 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:33:11] "GET / HTTP/1.1" 200 -
+2021-11-25 17:33:11,507 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:33:11] "GET /socket.io/?EIO=4&transport=polling&t=NrNyPeS HTTP/1.1" 200 -
+2021-11-25 17:33:11,766 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:33:11] "POST /socket.io/?EIO=4&transport=polling&t=NrNyPjM&sid=Bi_iEOXDrv-RFQE6AAAC HTTP/1.1" 200 -
+2021-11-25 17:33:11,827 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:33:11] "GET /socket.io/?EIO=4&transport=polling&t=NrNyPjM.0&sid=Bi_iEOXDrv-RFQE6AAAC HTTP/1.1" 200 -
+2021-11-25 17:33:11,832 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:33:11] "POST /socket.io/?EIO=4&transport=polling&t=NrNyPoL&sid=Bi_iEOXDrv-RFQE6AAAC HTTP/1.1" 200 -
+2021-11-25 17:33:16,446 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:33:16] "POST /socket.io/?EIO=4&transport=polling&t=NrNyQrX&sid=Bi_iEOXDrv-RFQE6AAAC HTTP/1.1" 200 -
+2021-11-25 17:33:24,479 - check_route_data_integrity - INFO - Podatki so bili uspesno pridobljeni.
+2021-11-25 17:33:32,272 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:33:32] "GET /socket.io/?EIO=4&transport=polling&t=NrNyOm1&sid=fnle6dOYxQskhH6zAAAA HTTP/1.1" 200 -
+2021-11-25 17:33:36,521 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:33:36] "GET /socket.io/?EIO=4&transport=polling&t=NrNyPoM&sid=Bi_iEOXDrv-RFQE6AAAC HTTP/1.1" 200 -
+2021-11-25 17:33:36,840 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:33:36] "POST /socket.io/?EIO=4&transport=polling&t=NrNyVqF&sid=Bi_iEOXDrv-RFQE6AAAC HTTP/1.1" 200 -
+2021-11-25 17:34:01,327 - werkzeug - INFO -  * Detected change in 'c:\\Users\\emama\\OneDrive\\Documents\\Coding\\Seca projekt\\Komunikator-main\\app\\conversation_main.py', reloading
+2021-11-25 17:34:01,462 - werkzeug - INFO -  * Restarting with stat
+2021-11-25 17:34:55,345 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-11-25 17:34:55,354 - werkzeug - INFO -  * Restarting with stat
+2021-11-25 17:34:57,813 - werkzeug - WARNING - WebSocket transport not available. Install simple-websocket for improved performance.
+2021-11-25 17:34:57,816 - werkzeug - WARNING -  * Debugger is active!
+2021-11-25 17:34:57,826 - werkzeug - INFO -  * Debugger PIN: 790-660-682
+2021-11-25 17:34:57,982 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-11-25 17:34:57,983 - werkzeug - INFO -  * Running on http://192.168.1.65:5000/ (Press CTRL+C to quit)
+2021-11-25 17:34:58,248 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:34:58] "GET / HTTP/1.1" 200 -
+2021-11-25 17:34:58,483 - engineio.server - ERROR - The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2021-11-25 17:34:58,485 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:34:58] "GET /socket.io/?EIO=4&transport=polling&t=NrNypnZ HTTP/1.1" 200 -
+2021-11-25 17:34:58,490 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:34:58] "POST /socket.io/?EIO=4&transport=polling&t=NrNypqu&sid=9PiFyEfhF4YNZZd_AAAA HTTP/1.1" 200 -
+2021-11-25 17:34:58,797 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:34:58] "GET /socket.io/?EIO=4&transport=polling&t=NrNypqv&sid=9PiFyEfhF4YNZZd_AAAA HTTP/1.1" 200 -
+2021-11-25 17:34:59,111 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:34:59] "POST /socket.io/?EIO=4&transport=polling&t=NrNypvm&sid=9PiFyEfhF4YNZZd_AAAA HTTP/1.1" 200 -
+2021-11-25 17:35:02,076 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:35:02] "POST /socket.io/?EIO=4&transport=polling&t=NrNyqiu&sid=9PiFyEfhF4YNZZd_AAAA HTTP/1.1" 200 -
+2021-11-25 17:35:06,379 - check_route_data_integrity - INFO - Podatki so bili uspesno pridobljeni.
+2021-11-25 17:35:06,381 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:35:06] "GET /socket.io/?EIO=4&transport=polling&t=NrNypvn&sid=9PiFyEfhF4YNZZd_AAAA HTTP/1.1" 200 -
+2021-11-25 17:35:23,500 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:35:23] "GET /socket.io/?EIO=4&transport=polling&t=NrNyrmI&sid=9PiFyEfhF4YNZZd_AAAA HTTP/1.1" 200 -
+2021-11-25 17:35:23,509 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:35:23] "POST /socket.io/?EIO=4&transport=polling&t=NrNyvxo&sid=9PiFyEfhF4YNZZd_AAAA HTTP/1.1" 200 -
+2021-11-25 17:35:46,301 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:35:46] "POST /socket.io/?EIO=4&transport=polling&t=NrNy_RA&sid=9PiFyEfhF4YNZZd_AAAA HTTP/1.1" 200 -
+2021-11-25 17:35:48,522 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:35:48] "GET /socket.io/?EIO=4&transport=polling&t=NrNyvxo.0&sid=9PiFyEfhF4YNZZd_AAAA HTTP/1.1" 200 -
+2021-11-25 17:35:48,839 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:35:48] "POST /socket.io/?EIO=4&transport=polling&t=NrNz02i&sid=9PiFyEfhF4YNZZd_AAAA HTTP/1.1" 200 -
+2021-11-25 17:35:49,889 - check_route_data_integrity - INFO - Podatki so bili uspesno pridobljeni.
+2021-11-25 17:35:49,891 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:35:49] "GET /socket.io/?EIO=4&transport=polling&t=NrNz02j&sid=9PiFyEfhF4YNZZd_AAAA HTTP/1.1" 200 -
+2021-11-25 17:36:13,844 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2021 17:36:13] "GET /socket.io/?EIO=4&transport=polling&t=NrNz0O6&sid=9PiFyEfhF4YNZZd_AAAA HTTP/1.1" 200 -
