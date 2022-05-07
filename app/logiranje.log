@@ -1,0 +1,18 @@
+2022-03-25 14:08:46,450 - output_to_user - INFO - Govor: rad bi šel do celovške ceste
+2022-03-25 14:09:34,598 - output_to_user - INFO - Govor: rad bi šel do celovške ceste
+2022-03-25 14:11:23,582 - output_to_user - INFO - Govor: rad bi šel do celovške ceste
+2022-03-25 14:11:28,461 - output_to_user - INFO - Govor: bear  paw
+2022-03-25 14:11:35,541 - output_to_user - INFO - Govor: rad bi šel do celovške ceste
+2022-03-25 14:15:05,197 - output_to_user - INFO - Govor: rad bi šel do celovške ceste
+2022-03-25 14:15:13,290 - check_route_data_integrity - INFO - Podatki so bili uspesno pridobljeni.
+2022-03-25 14:15:13,291 - conversation_intelligence - INFO - Oseba naj gre peš
+2022-03-29 21:48:01,001 - output_to_user - INFO - Govor: rad bi šel do celovške ceste
+2022-03-29 21:50:40,706 - output_to_user - INFO - Govor: rad bi šel do celovške ceste
+2022-03-29 21:52:50,907 - output_to_user - INFO - Govor: rad bi šel do celovške ceste
+2022-03-29 21:54:27,246 - output_to_user - INFO - Govor: rad bi šel do celovške ceste
+2022-03-29 21:56:37,549 - output_to_user - INFO - Govor: rad bi šel do celovške ceste
+2022-03-29 21:58:37,548 - output_to_user - INFO - Govor: rad bi šel do celovške ceste
+2022-03-29 21:58:46,153 - check_route_data_integrity - INFO - Podatki so bili uspesno pridobljeni.
+2022-03-29 22:01:48,819 - output_to_user - INFO - Govor: rad bi šel do celovške ceste
+2022-03-29 22:01:56,701 - check_route_data_integrity - INFO - Podatki so bili uspesno pridobljeni.
+2022-03-29 22:01:56,702 - conversation_intelligence - INFO - Oseba naj gre peš

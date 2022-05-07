@@ -1,0 +1,2773 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hello",
+        "How are you",
+        "Is anyone there?",
+        "Hey",
+        "Hola",
+        "Hello",
+        "Good day",
+        "Hello",
+        "Hi"
+      ],
+      "responses": [
+        "Hello! How can I help you?",
+        "Hello! How can I assist you?",
+        "Hello! What can I do for you today?",
+        "Greeting! What can I do for you today?",
+        "Greetings! What can I do for you today?"
+      ],
+      "context": [
+        ""
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "Nice chatting to you, bye",
+        "Till next time",
+        "Thanks,bye"
+      ],
+      "responses": [
+        "See you!",
+        "Have a nice day",
+        "Bye! Come back again soon.",
+        "Iâ€™m happy to help. Have a nice day!",
+        "Youâ€™re welcome. Have a nice day!",
+        "Anytime. Have a nice day!"
+      ],
+      "context": [
+        ""
+      ]
+    },
+    {
+      "tag": "noanswer",
+      "patterns": [
+        ""
+      ],
+      "responses": [
+        "I am sorry I don't know what to do with that. Where would you like to go to?"
+      ],
+      "context": [
+        ""
+      ]
+    },
+    {
+      "tag": "Slovenska cesta",
+      "patterns": [
+        "i want to go to drama"
+      ],
+      "responses": [
+        "To get to Drama take bus #1 or #6"
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": "Trzaska cesta",
+      "patterns": [
+        "i want to go to vič"
+      ],
+      "responses": [
+        "To get to Vič I recommend taking the bus #6"
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": "Dunajska cesta",
+      "patterns": [
+        "i want to go to mercator",
+        "Do Merkatorja"
+      ],
+      "responses": [
+        "To get to Mercator I recommend taking the bus #6"
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "Rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Se opravičujem, lahko ponovite? Kam želite it?"
+      ],
+      "patterns": [
+        "pjopopjo"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Dolenjska cesta, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do dolenjske ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Dolenjska cesta, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do dolenjske ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Dolenjska cesta, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do dolenjske ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Dolenjska cesta, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do dolenjske ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Dolenjska cesta, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do dolenjske ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Dolenjska cesta, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do dolenjske ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rae bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Dolenjska cesta, Slovenia"
+      ],
+      "patterns": [
+        "Rad bi šel do dolenjske ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Dolenjska cesta, Slovenia"
+      ],
+      "patterns": [
+        "Rad bi šel do dolenjske ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "Rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "Rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "Rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "Rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "Rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "Rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "Rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "Rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "Rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "Rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "Rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "Rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "Rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Čopova ulica, 1000 Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do čopove ulice"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Čopova ulica, 1000 Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do čopove ulice"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Čopova ulica, 1000 Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do čopove ulice"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Čopova ulica, 1000 Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do čopove ulice"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Se opravičujem, lahko ponovite? Kam želite it?"
+      ],
+      "patterns": [
+        "r"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Se opravičujem, lahko ponovite? Kam želite it?"
+      ],
+      "patterns": [
+        "r"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Se opravičujem, lahko ponovite? Kam želite it?"
+      ],
+      "patterns": [
+        "bear  paw"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Čopova ulica, 1000 Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do čopove ulice"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Čopova ulica, 1000 Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do čopove ulice"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Čopova ulica, 1000 Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do čopove ulice"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Čopova ulica, 1000 Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do čopove ulice"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Čopova ulica, 1000 Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do čopove ulice"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Se opravičujem, lahko ponovite? Kam želite it?"
+      ],
+      "patterns": [
+        "hočem do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Se opravičujem, lahko ponovite? Kam želite it?"
+      ],
+      "patterns": [
+        "r"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel od celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi še od celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad je šel v celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Dolenjska cesta, Slovenia"
+      ],
+      "patterns": [
+        "Rad bi šel do dolenjske ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Dolenjska cesta, Slovenia"
+      ],
+      "patterns": [
+        "Rad bi šel do dolenjske ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Čopova ulica, 1000 Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do čopove ulice"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Se opravičujem, lahko ponovite? Kam želite it?"
+      ],
+      "patterns": [
+        "plis delej no"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Se opravičujem, lahko ponovite? Kam želite it?"
+      ],
+      "patterns": [
+        "plis delej no"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Se opravičujem, lahko ponovite? Kam želite it?"
+      ],
+      "patterns": [
+        "plis delej no"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Se opravičujem, lahko ponovite? Kam želite it?"
+      ],
+      "patterns": [
+        "plis delej no"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Dolenjska cesta, Slovenia"
+      ],
+      "patterns": [
+        "Rad bi šel do dolenjske ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Celovška cesta, Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do celovške ceste"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    },
+    {
+      "tag": [
+        "Čopova ulica, 1000 Ljubljana, Slovenia"
+      ],
+      "patterns": [
+        "rad bi šel do čopove ulice"
+      ],
+      "responses": [
+        ""
+      ],
+      "codex": [
+        ""
+      ]
+    }
+  ]
+}
