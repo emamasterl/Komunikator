@@ -22,7 +22,7 @@ def talk_back(question):
     audio_config = AudioOutputConfig(use_default_speaker=True)
     synthesizer = SpeechSynthesizer(speech_config=speech_config, audio_config=audio_config)
 
-    file_xml=r"app/ssml.xml"
+    file_xml=r"app\ssml.xml"
     tree = ET.parse(file_xml)
 
     '''try:

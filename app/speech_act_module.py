@@ -27,7 +27,6 @@ def get_text_from_mic():
     speech_config.speech_recognition_language="sl-SI"
     speech_recognizer = speechsdk.SpeechRecognizer(speech_config=speech_config)
 
-    print("Speak into your microphone.")
     result = speech_recognizer.recognize_once_async().get()
 
     log.info("Govor: "+ result.text)
@@ -54,7 +53,7 @@ def get_intent_from_question(question):
     else: 
         return_value = response.fulfillment_text
 
-    print_out(question, return_value)
+    #print_out(question, return_value)
     return return_value,intent
 
 def get_intent(response):
@@ -101,7 +100,7 @@ def speech_act_module(userinput_text):
         address=get_intent_from_question(userinput_text)
         return address
     except Exception as e:
-        print("something went terribly wrong")
-        print('e: ',e)
-        a = "napaka"
+        #print("something went terribly wrong")
+        #print('e: ',e)
+        a = "Imamo težave pri pridobivanju podatkov, poskusite kasneje."
         return a,e

@@ -30,29 +30,35 @@ logging.basicConfig(filename = 'logiranje.log', filemode = 'a', level=logging.IN
 log = logging.getLogger(__name__)
 
 def question_to_answer(userinput_text):
+    log.info('ZAČETEK')
     log.info(userinput_text)
     address,intent=speech_act_module(userinput_text)
-    print('address_ ', address)
-    if address == 'napaka' or address == 'Se opravičujem, lahko ponovite? Kam želite it?':
-        return 'Se opravičujem, lahko ponovite? Kam želite it?'
+    log.info('Address: '+ address)
+    log.info('Intent: '+ str(intent))
+    if intent != 'lokacija' and intent != 'busna':
+        log.info('KONEC')
+        return address
+
     route_data = get_directions.get_directions(address)
     walking_time=get_walking_time(address)
     weather_data=ow()
+    log.info('Podatki o poti: '+ str(route_data))
+    log.info('Čas hoje v minutah: '+ str(walking_time))
+    log.info('Vremenski podatki: '+ str(weather_data))
     all_data_received = check_route_data_integrity.get_route_data_integrity(route_data)
-
-    bus_info = list(route_data[1])
     
     temperature = weather_data[0]
     weather_desc=weather_data[1]
     
     if all_data_received == 0:
-        #tts("Imamo težave pri pridobivanju podatkov, poskusite kasneje.")
+        log.info('KONEC')
         return "Imamo težave pri pridobivanju podatkov, poskusite kasneje."
     elif all_data_received == 2:
-        #tts("Danes na lokacijo ne pelje noben bus, pojdite peš ali z drugo obliko prevoza.")
-        return "Danes na lokacijo ne pelje noben bus, pojdite peš ali z drugo obliko prevoza. Vremenski podatki: ", "Temperatura: ", temperature, "Vreme: ", weather_desc
+        log.info('KONEC')
+        return "Danes na lokacijo ne pelje noben avtobus, pojdite peš ali z drugo obliko prevoza. Vremenski podatki: ", "Temperatura: ", temperature, "Vreme: ", weather_desc
     else:
         answer_text = ci.get_answer_text(weather_data,route_data,int(walking_time))
         suggested_path= str(answer_text) +"Vremenski podatki:\n"+ "Temperatura:"+ str(temperature)+ "\n Vreme:"+ str(weather_desc)
-        #tts(answer_text)
+        log.info(suggested_path)
+        log.info('KONEC')
         return suggested_path

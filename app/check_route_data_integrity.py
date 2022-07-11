@@ -18,7 +18,7 @@ log = logging.getLogger(__name__)
 def get_route_data_integrity(route_data):
 
     if "Danes na lokacijo ne pelje noben avtobus" in route_data:
-        print('Ni busa')
+        log.info('Ni avtobusa')
         can_continiue = 2
         return can_continiue
     
@@ -36,7 +36,7 @@ def get_route_data_integrity(route_data):
             can_continiue = 1
 
         else:
-            log.warning("Nismo uspeli pridobiti vseh podatkov.", route_data)
+            log.warning("Nismo uspeli pridobiti vseh podatkov.")
             can_continiue = 0
             
 
